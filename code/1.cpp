@@ -1,3 +1,10 @@
+/*
+ * 1. Two Sum
+ * 题意：返回数组中和为给定数的下标
+ * 难度：Easy
+ * 分类：哈希表
+ * 算法：题目说明了数组中一定有解，且解唯一，所以用哈希表记录已遍历的元素即可
+ */
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
