@@ -1,7 +1,7 @@
 ### Solved Questions
 
 | \# | Problems | Difficulty | Solution | Tag |
-|----|----------|-----------|------|
+|----|----------|-----------|------|------|
 | 001  | [两数相加](https://leetcode-cn.com/problems/two-sum/)  | Easy | [C++](./code/001.cpp) | 哈希表 |
 | 002  | [两数之和](https://leetcode-cn.com/problems/add-two-numbers/)  | Medium | [C++](./code/002.cpp) | 链表 |
 | 003  | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  | Medium | [C++](./code/003.cpp)| 哈希表 |
