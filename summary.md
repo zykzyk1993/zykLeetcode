@@ -13,3 +13,6 @@
 | 017  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  | Medium | [C++](./code/017.cpp) |dfs|
 | 019  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  | Medium | [C++](./code/019.cpp) |链表|
 | 020  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | [C++](./code/020.cpp) |栈|
+| 021  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  | Easy | [C++](./code/021.cpp) |链表|
+| 022  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  | Medium | [C++](./code/022.cpp) |dfs|
+| 023  | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  | Hard | [C++](./code/023.cpp) |链表 堆|
