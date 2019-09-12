@@ -12,3 +12,4 @@
 | 015  | [三数之和](https://leetcode-cn.com/problems/3sum/)  | Medium | [C++](./code/015.cpp) |双指针|
 | 017  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  | Medium | [C++](./code/017.cpp) |dfs|
 | 019  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  | Medium | [C++](./code/019.cpp) |链表|
+| 020  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | [C++](./code/020.cpp) |栈|
