@@ -1,2 +1,0 @@
-# zykLeetcode
-my leetcode journey
