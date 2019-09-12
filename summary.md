@@ -1,6 +1,6 @@
 ### Solved Questions
 
-| \# | Problems | Difficulty | Solution | Tag |
+| \# | Problems | Difficulty | Solution | Tag | 
 |----|----------|-----------|------|------|
 | 001  | [两数相加](https://leetcode-cn.com/problems/two-sum/)  | Easy | [C++](./code/001.cpp) | 哈希表 |
 | 002  | [两数之和](https://leetcode-cn.com/problems/add-two-numbers/)  | Medium | [C++](./code/002.cpp) | 链表 |
@@ -24,3 +24,7 @@
 | 042  | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  | Hard | [C++](./code/042.cpp) |模拟 单调栈|
 | 046  | [全排列](https://leetcode-cn.com/problems/permutations/)  | Hard | [C++](./code/046.cpp) |dfs 回溯|
 | 048  | [旋转图像](https://leetcode-cn.com/problems/rotate-image/)  | Medium | [C++](./code/048.cpp) |模拟|
+| 049  | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  | Medium | [C++](./code/049.cpp) |哈希表|
+| 053  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)  | Easy | [C++](./code/053.cpp) |数组|
+| 055  | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | Medium | [C++](./code/055.cpp) |数组 贪心|
+| 056  | [合并区间](https://leetcode-cn.com/problems/merge-intervals/)  | Medium | [C++](./code/056.cpp) |数组 排序|
