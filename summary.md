@@ -9,3 +9,4 @@
 | 005  | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)  | Medium | [C++](./code/005.cpp) |dp manacher |
 | 010  | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)  | Hard | [C++](./code/010.cpp) |dp|
 | 011  | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)  | Medium | [C++](./code/011.cpp) |双指针|
+| 015  | [三数之和](https://leetcode-cn.com/problems/3sum/)  | Medium | [C++](./code/015.cpp) |双指针|
