@@ -33,4 +33,7 @@
 | 070  | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | Easy | [C++](./code/070.cpp) |dp|
 | 072  | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  | Hard | [C++](./code/072.cpp) |dp|
 | 075  | [颜色分类](https://leetcode-cn.com/problems/sort-colors/)  | Medium | [C++](./code/075.cpp) |数组 排序 双指针|
-| 076  | [最小覆盖字串](https://leetcode-cn.com/problems/minimum-window-substring/)  | Hard | [C++](./code/076.cpp) |字符串 双指针 滑动窗口|
+| 076  | [最小覆盖字串](https://leetcode-cn.com/problems/minimum-window-substring/)  | Hard | [C++](./code/076.cpp) |字符串 滑动窗口| 
+| 078  | [子集](https://leetcode-cn.com/problems/subsets/)  | Medium | [C++](./code/078.cpp) |位运算 dfs|
+| 079  | [单词搜索](https://leetcode-cn.com/problems/word-search/)  | Medium | [C++](./code/079.cpp) |dfs 回溯|
+| 084  | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  | Hard | [C++](./code/084.cpp) |单调栈|
