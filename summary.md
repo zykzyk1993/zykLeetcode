@@ -37,3 +37,4 @@
 | 078  | [子集](https://leetcode-cn.com/problems/subsets/)  | Medium | [C++](./code/078.cpp) |位运算 dfs|
 | 079  | [单词搜索](https://leetcode-cn.com/problems/word-search/)  | Medium | [C++](./code/079.cpp) |dfs 回溯|
 | 084  | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  | Hard | [C++](./code/084.cpp) |单调栈|
+| 085  | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)  | Hard | [C++](./code/085.cpp) |单调栈|
