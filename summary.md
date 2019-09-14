@@ -28,3 +28,9 @@
 | 053  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)  | Easy | [C++](./code/053.cpp) |数组|
 | 055  | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | Medium | [C++](./code/055.cpp) |数组 贪心|
 | 056  | [合并区间](https://leetcode-cn.com/problems/merge-intervals/)  | Medium | [C++](./code/056.cpp) |数组 排序|
+| 062  | [不同路径](https://leetcode-cn.com/problems/unique-paths/)  | Medium | [C++](./code/062.cpp) |dp 排列组合|
+| 064  | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)  | Medium | [C++](./code/064.cpp) |dp|
+| 070  | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | Easy | [C++](./code/070.cpp) |dp|
+| 072  | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  | Hard | [C++](./code/072.cpp) |dp|
+| 075  | [颜色分类](https://leetcode-cn.com/problems/sort-colors/)  | Medium | [C++](./code/075.cpp) |数组 排序 双指针|
+| 076  | [最小覆盖字串](https://leetcode-cn.com/problems/minimum-window-substring/)  | Hard | [C++](./code/076.cpp) |字符串 双指针 滑动窗口|
