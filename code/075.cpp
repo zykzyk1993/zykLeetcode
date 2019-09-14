@@ -1,3 +1,4 @@
+//经典荷兰国旗问题
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
@@ -17,3 +18,4 @@ public:
         }
     }
 };
+//对于K种颜色的推广，先排好颜色0和颜色k-1到数组的两端，再继续调用
