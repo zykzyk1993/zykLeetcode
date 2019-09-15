@@ -39,6 +39,7 @@
 | 084  | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  | Hard | [C++](./code/084.cpp) |单调栈|
 | 085  | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)  | Hard | [C++](./code/085.cpp) |单调栈|
 | 094  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  | Medium | [C++](./code/094.cpp) |树|
+| 096  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)  | Medium | [C++](./code/096.cpp) |树 dp|
 
 
 
