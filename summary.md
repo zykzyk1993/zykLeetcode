@@ -48,6 +48,9 @@
 | 114  | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)  | Medium | [C++](./code/114.cpp) |树|
 | 121  | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)  | Easy | [C++](./code/121.cpp) |数组|
 | 124  | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)  | Hard | [C++](./code/124.cpp) |树|
-
-
+| 128  | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)  | Hard | [C++](./code/128.cpp) |数组 集合|
+| 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/)  | Easy | [C++](./code/136.cpp) |位运算|
+| 139  | [单词拆分](https://leetcode-cn.com/problems/word-break/)  | Medium | [C++](./code/139.cpp) |dp|
+| 141  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  | Medium | [C++](./code/141.cpp) |双指针 链表|
+| 142  | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  | Medium | [C++](./code/142.cpp) |双指针 链表|
 
