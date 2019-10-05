@@ -1,4 +1,10 @@
-//常规dp算法
+/*
+ * 5. 最长回文子串
+ * 题意：找出给定字符串中最长的回文串
+ * 难度：中等
+ * 分类：字符串，dp
+ * 算法：从中间往两边扩展dp数组，初始状况有两种：长度为1和长度为2的
+ */
 class Solution {
 public:
     string longestPalindrome(string s) {
