@@ -1,3 +1,10 @@
+ /*
+ * 17. 电话号码的字母组合
+ * 题意：手机键盘字母输入
+ * 难度：中等
+ * 分类：dfs
+ * 算法：标准dfs，注意回溯，全局变量
+ */
 class Solution {
 public:
     vector<string> ans;
