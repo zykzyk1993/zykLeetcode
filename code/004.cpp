@@ -1,3 +1,10 @@
+/*
+ * 4. 寻找两个有序数组的中位数
+ * 题意：两个有序数组，找出中位数，要求复杂度O(logN)
+ * 难度：困难
+ * 分类：数组，二分，分治
+ * 算法：转化为查找第K大的数，取两个数组的min(k/2,len)作比较，从而每次缩小问题规模为k/2，注意边界和下标
+ */
 class Solution {
 public:
     int findKthNumber(vector<int>& nums1,vector<int>& nums2, int start1, int end1, int start2, int end2, int k){
