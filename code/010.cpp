@@ -1,3 +1,11 @@
+ /*
+ * 10. 正则表达式匹配
+ * 题意：正则表达式匹配
+ * 难度：困难
+ * 分类：字符串，dp
+ * 算法：递推情况有 * 两个字符 . 或匹配 一个字符
+    注意先填充字符串为空的情况
+ */
 class Solution {
 public:
     bool isMatch(string s, string p) {
