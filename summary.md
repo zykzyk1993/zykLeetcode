@@ -12,9 +12,9 @@
 | 015  | [三数之和](https://leetcode-cn.com/problems/3sum/)  | Medium | [C++](./code/015.cpp) |双指针| 1 |
 | 017  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  | Medium | [C++](./code/017.cpp) |dfs| 1 |
 | 019  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  | Medium | [C++](./code/019.cpp) |链表| 1 |
-| 020  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | [C++](./code/020.cpp) |栈| 0 |
-| 021  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  | Easy | [C++](./code/021.cpp) |链表| 0 |
-| 022  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  | Medium | [C++](./code/022.cpp) |dfs| 0 |
+| 020  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | [C++](./code/020.cpp) |栈| 1 |
+| 021  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  | Easy | [C++](./code/021.cpp) |链表| 1 |
+| 022  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  | Medium | [C++](./code/022.cpp) |dfs| 1 |
 | 023  | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  | Hard | [C++](./code/023.cpp) |链表 堆| 0 |
 | 032  | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  | Hard | [C++](./code/032.cpp) |线性扫描| 0 |
 | 033  | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  | Medium | [C++](./code/032.cpp) |二分查找| 0 |
