@@ -1,3 +1,10 @@
+ /*
+ * 22. 括号生成
+ * 题意：给定括号对数n, 生成所有可能的并且有效的括号组合
+ * 难度：中等
+ * 分类：DFS
+ * 算法：深搜加剪枝，可以记录balance或者记录left，right数量
+ */
 class Solution {
 public:
     void dfs(int n, int balance, string curString,vector<string> &ans){
