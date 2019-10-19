@@ -15,11 +15,11 @@
 | 020  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | Easy | [C++](./code/020.cpp) |栈| 1 |
 | 021  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  | Easy | [C++](./code/021.cpp) |链表| 1 |
 | 022  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  | Medium | [C++](./code/022.cpp) |dfs| 1 |
-| 023  | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  | Hard | [C++](./code/023.cpp) |链表 堆| 0 |
-| 032  | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  | Hard | [C++](./code/032.cpp) |线性扫描| 0 |
-| 033  | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  | Medium | [C++](./code/032.cpp) |二分查找| 0 |
-| 034  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | Medium | [C++](./code/034.cpp) |二分查找| 0 |
-| 035  | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  | Easy | [C++](./code/035.cpp) |二分查找| 0 |
+| 023  | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  | Hard | [C++](./code/023.cpp) |链表 堆| 1 |
+| 032  | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  | Hard | [C++](./code/032.cpp) |线性扫描| 1 |
+| 033  | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  | Medium | [C++](./code/032.cpp) |二分查找| 1 |
+| 034  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | Medium | [C++](./code/034.cpp) |二分查找| 1 |
+| 035  | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  | Easy | [C++](./code/035.cpp) |二分查找| 1 |
 | 039  | [组合总和](https://leetcode-cn.com/problems/combination-sum/)  | Medium | [C++](./code/039.cpp) |dfs 回溯| 0 |
 | 042  | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  | Hard | [C++](./code/042.cpp) |模拟 单调栈| 0 |
 | 046  | [全排列](https://leetcode-cn.com/problems/permutations/)  | Hard | [C++](./code/046.cpp) |dfs 回溯| 0 |
