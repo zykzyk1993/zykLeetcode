@@ -1,3 +1,10 @@
+/*
+ * 35. 搜索插入位置
+ * 搜索指定值，找不到就返回插入位置
+ * 难度：简单
+ * 分类：数组 二分
+ * 算法：直接二分，找不到的话返回边界右侧low
+ */
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
