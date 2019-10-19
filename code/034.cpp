@@ -1,3 +1,10 @@
+/*
+ * 34. 在排序数组中查找元素的第一个和最后一个位置
+ * 给定一个按照升序排列的整数数组 nums，和一个目标值 target。找出给定目标值在数组中的开始位置和结束位置
+ * 难度：中等
+ * 分类：数组 二分
+ * 算法：多次二分，注意二分的边界条件不同即可
+ */
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
