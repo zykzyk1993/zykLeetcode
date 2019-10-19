@@ -1,4 +1,11 @@
-//暴力求解会超时，要巧妙地线性扫描
+ /*
+ * 32. 最长有效括号
+ * 题意：给定括号对数n, 生成所有可能的并且有效的括号组合
+ * 难度：困难
+ * 分类：DP 栈 线性扫描
+ * 算法：
+ * 动态规划：当s[i]=')' 若s[i-1]='(' 则dp[i]=dp[i−2]+2  若s[i-1]=')'且s[i-dp[i-1]-1]='('  dp[i]=dp[i−1]+dp[i−dp[i−1]−2]+2
+ */
 class Solution {
 public:
     int longestValidParentheses(string s) {
