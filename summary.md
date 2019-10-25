@@ -20,10 +20,10 @@
 | 033  | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  | Medium | [C++](./code/032.cpp) |二分查找| 1 |
 | 034  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | Medium | [C++](./code/034.cpp) |二分查找| 1 |
 | 035  | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  | Easy | [C++](./code/035.cpp) |二分查找| 1 |
-| 039  | [组合总和](https://leetcode-cn.com/problems/combination-sum/)  | Medium | [C++](./code/039.cpp) |dfs 回溯| 0 |
-| 042  | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  | Hard | [C++](./code/042.cpp) |模拟 单调栈| 0 |
-| 046  | [全排列](https://leetcode-cn.com/problems/permutations/)  | Hard | [C++](./code/046.cpp) |dfs 回溯| 0 |
-| 048  | [旋转图像](https://leetcode-cn.com/problems/rotate-image/)  | Medium | [C++](./code/048.cpp) |模拟| 0 |
+| 039  | [组合总和](https://leetcode-cn.com/problems/combination-sum/)  | Medium | [C++](./code/039.cpp) |dfs 回溯| 1 |
+| 042  | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  | Hard | [C++](./code/042.cpp) |模拟 单调栈| 1 |
+| 046  | [全排列](https://leetcode-cn.com/problems/permutations/)  | Medium | [C++](./code/046.cpp) |dfs 回溯| 1 |
+| 048  | [旋转图像](https://leetcode-cn.com/problems/rotate-image/)  | Medium | [C++](./code/048.cpp) |模拟| 1 |
 | 049  | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  | Medium | [C++](./code/049.cpp) |哈希表| 0 |
 | 053  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)  | Easy | [C++](./code/053.cpp) |数组| 0 |
 | 055  | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | Medium | [C++](./code/055.cpp) |数组 贪心| 0 |
