@@ -1,3 +1,10 @@
+/*
+ * 46. 全排列
+ * 给定一个没有重复数字的序列，返回其所有可能的全排列
+ * 难度：中等
+ * 分类：dfs 回溯
+ * 算法：经典dfs回溯题
+ */
 class Solution {
 public:
     void dfs(vector<int>& nums, vector<int> &curNums, vector<bool> &visited, vector<vector<int>> &res){
