@@ -24,9 +24,9 @@
 | 042  | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  | Hard | [C++](./code/042.cpp) |模拟 单调栈| 1 |
 | 046  | [全排列](https://leetcode-cn.com/problems/permutations/)  | Medium | [C++](./code/046.cpp) |dfs 回溯| 1 |
 | 048  | [旋转图像](https://leetcode-cn.com/problems/rotate-image/)  | Medium | [C++](./code/048.cpp) |模拟| 1 |
-| 049  | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  | Medium | [C++](./code/049.cpp) |哈希表| 0 |
-| 053  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)  | Easy | [C++](./code/053.cpp) |数组| 0 |
-| 055  | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | Medium | [C++](./code/055.cpp) |数组 贪心| 0 |
+| 049  | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  | Medium | [C++](./code/049.cpp) |哈希表| 1 |
+| 053  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)  | Easy | [C++](./code/053.cpp) |数组| 1 |
+| 055  | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | Medium | [C++](./code/055.cpp) |数组 贪心| 1 |
 | 056  | [合并区间](https://leetcode-cn.com/problems/merge-intervals/)  | Medium | [C++](./code/056.cpp) |数组 排序| 0 |
 | 062  | [不同路径](https://leetcode-cn.com/problems/unique-paths/)  | Medium | [C++](./code/062.cpp) |dp 排列组合| 0 |
 | 064  | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)  | Medium | [C++](./code/064.cpp) |dp| 0 |
