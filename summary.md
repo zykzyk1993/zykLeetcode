@@ -53,4 +53,7 @@
 | 139  | [单词拆分](https://leetcode-cn.com/problems/word-break/)  | Medium | [C++](./code/139.cpp) |dp| 0 |
 | 141  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  | Medium | [C++](./code/141.cpp) |双指针 链表| 0 |
 | 142  | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  | Medium | [C++](./code/142.cpp) |双指针 链表| 0 |
+| 146  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)  | Medium | [C++](./code/146.cpp) |哈希 链表| 0 |
+| 148  | [排序链表](https://leetcode-cn.com/problems/sort-list/)  | Medium | [C++](./code/148.cpp) |链表| 0 |
+| 152  | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)  | Medium | [C++](./code/152.cpp) |数组 dp| 0 |
 
