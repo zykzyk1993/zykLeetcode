@@ -1,6 +1,6 @@
-### Solved Questions
+### 已解问题
 
-| \# | Problems | Difficulty | Solution | Tag | review |
+| \# | 问题 | 难度 | 代码 | 标签 | 复习次数 |
 |----|----------|-----------|------|------|------|
 | 001  | [两数相加](https://leetcode-cn.com/problems/two-sum/)  | Easy | [C++](./code/001.cpp) | 哈希表 | 1 |
 | 002  | [两数之和](https://leetcode-cn.com/problems/add-two-numbers/)  | Medium | [C++](./code/002.cpp) | 链表 | 1 |
