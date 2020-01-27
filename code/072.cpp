@@ -1,3 +1,10 @@
+/*
+ * 72. 编辑距离
+ * 两个字符串的最小增删改次数
+ * 难度：困难
+ * 分类：dp
+ * 算法：经典递推式，注意dp数组多开一位
+ */
 class Solution {
 public:
     int minDistance(string word1, string word2) {
