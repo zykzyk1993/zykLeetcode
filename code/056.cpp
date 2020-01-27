@@ -1,3 +1,10 @@
+/*
+ * 56. 合并区间
+ * 给出一个区间的集合，请合并所有重叠的区间。
+ * 难度：困难
+ * 分类：数组 排序
+ * 算法：按照左端点从小到大排序然后遍历，保留当前集合右端点
+ */
 class Solution {
 public:
     static bool cmp(const vector<int> &v1,const vector<int> &v2){
