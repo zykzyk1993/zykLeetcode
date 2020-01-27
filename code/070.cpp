@@ -1,3 +1,10 @@
+/*
+ * 70. 爬楼梯
+ * 爬楼梯的不同方法
+ * 难度：简单
+ * 分类：dp
+ * 算法：斐波那契
+ */
 class Solution {
 public:
     int climbStairs(int n) {
