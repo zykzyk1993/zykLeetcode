@@ -56,4 +56,8 @@
 | 146  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)  | 中等 | [C++](./code/146.cpp) |哈希 链表| 0 |
 | 148  | [排序链表](https://leetcode-cn.com/problems/sort-list/)  | 中等 | [C++](./code/148.cpp) |链表| 0 |
 | 152  | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)  | 中等 | [C++](./code/152.cpp) |数组 dp| 0 |
-
+| 155  | [最小栈](https://leetcode-cn.com/problems/min-stack/)  | 简单 | [C++](./code/155.cpp) |栈| 0 |
+| 160  | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)  | 简单 | [C++](./code/160.cpp) |链表| 0 |
+| 169  | [多数元素](https://leetcode-cn.com/problems/majority-element/)  | 简单 | [C++](./code/169.cpp) |数组| 0 |
+| 198  | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  | 简单 | [C++](./code/198.cpp) |数组 dp| 0 |
+| 200  | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)  | 中等 | [C++](./code/200.cpp) |dfs| 0 |
