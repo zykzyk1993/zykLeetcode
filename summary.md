@@ -33,14 +33,14 @@
 | 070  | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | 简单 | [C++](./code/070.cpp) |dp| 1 |
 | 072  | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  | 困难 | [C++](./code/072.cpp) |dp| 1 |
 | 075  | [颜色分类](https://leetcode-cn.com/problems/sort-colors/)  | 中等 | [C++](./code/075.cpp) |数组 排序 双指针| 1 |
-| 076  | [最小覆盖字串](https://leetcode-cn.com/problems/minimum-window-substring/)  | 困难 | [C++](./code/076.cpp) |字符串 滑动窗口| 1 |
-| 078  | [子集](https://leetcode-cn.com/problems/subsets/)  | 中等 | [C++](./code/078.cpp) |位运算 dfs| 0 |
-| 079  | [单词搜索](https://leetcode-cn.com/problems/word-search/)  | 中等 | [C++](./code/079.cpp) |dfs 回溯| 0 |
-| 084  | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  | 困难 | [C++](./code/084.cpp) |单调栈| 0 |
-| 085  | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)  | 困难 | [C++](./code/085.cpp) |单调栈| 0 |
-| 094  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  | 中等 | [C++](./code/094.cpp) |树| 0 |
-| 096  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)  | 中等 | [C++](./code/096.cpp) |树 dp| 0 |
-| 096  | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)  | 中等 | [C++](./code/098.cpp) |树| 0 |
+| 076  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)  | 困难 | [C++](./code/076.cpp) |字符串 滑动窗口| 1 |
+| 078  | [子集](https://leetcode-cn.com/problems/subsets/)  | 中等 | [C++](./code/078.cpp) |位运算 dfs| 1 |
+| 079  | [单词搜索](https://leetcode-cn.com/problems/word-search/)  | 中等 | [C++](./code/079.cpp) |dfs 回溯| 1 |
+| 084  | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  | 困难 | [C++](./code/084.cpp) |单调栈| 1 |
+| 085  | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)  | 困难 | [C++](./code/085.cpp) |单调栈| 1 |
+| 094  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  | 中等 | [C++](./code/094.cpp) |树| 1 |
+| 096  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)  | 中等 | [C++](./code/096.cpp) |树 dp| 1 |
+| 098  | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)  | 中等 | [C++](./code/098.cpp) |树| 1 |
 | 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)  | 简单 | [C++](./code/101.cpp) |树| 0 |
 | 102  | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)  | 中等 | [C++](./code/102.cpp) |树| 0 |
 | 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)  | 简单 | [C++](./code/104.cpp) |树| 0 |
