@@ -1,3 +1,10 @@
+/*
+ * 76. 最小覆盖子串
+ * 原字符串中覆盖子串所有字符的最短串
+ * 难度：困难
+ * 分类：字符串 滑动窗口 双指针
+ * 算法：用hashmap记录当前窗口和子串要求的字符数量，时刻右移左移并更新
+ */
 class Solution {
 public:
     string minWindow(string s, string t) {
