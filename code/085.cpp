@@ -1,3 +1,10 @@
+/*
+ * 85. 最大矩形
+ * 求二进制矩阵中能存在的最大矩形
+ * 难度：困难
+ * 分类：单调栈
+ * 算法：将每一层叠加其以上层的1,然后逐层调用柱状图最大矩形算法
+ */
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
