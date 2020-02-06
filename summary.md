@@ -29,11 +29,11 @@
 | 055  | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | 中等 | [C++](./code/055.cpp) |数组 贪心| 1 |
 | 056  | [合并区间](https://leetcode-cn.com/problems/merge-intervals/)  | 中等 | [C++](./code/056.cpp) |数组 排序| 1 |
 | 062  | [不同路径](https://leetcode-cn.com/problems/unique-paths/)  | 中等 | [C++](./code/062.cpp) |dp 排列组合| 1 |
-| 064  | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)  | 中等 | [C++](./code/064.cpp) |dp| 0 |
-| 070  | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | 简单 | [C++](./code/070.cpp) |dp| 0 |
-| 072  | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  | 困难 | [C++](./code/072.cpp) |dp| 0 |
-| 075  | [颜色分类](https://leetcode-cn.com/problems/sort-colors/)  | 中等 | [C++](./code/075.cpp) |数组 排序 双指针| 0 |
-| 076  | [最小覆盖字串](https://leetcode-cn.com/problems/minimum-window-substring/)  | 困难 | [C++](./code/076.cpp) |字符串 滑动窗口|  0 |
+| 064  | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)  | 中等 | [C++](./code/064.cpp) |dp| 1 |
+| 070  | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | 简单 | [C++](./code/070.cpp) |dp| 1 |
+| 072  | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  | 困难 | [C++](./code/072.cpp) |dp| 1 |
+| 075  | [颜色分类](https://leetcode-cn.com/problems/sort-colors/)  | 中等 | [C++](./code/075.cpp) |数组 排序 双指针| 1 |
+| 076  | [最小覆盖字串](https://leetcode-cn.com/problems/minimum-window-substring/)  | 困难 | [C++](./code/076.cpp) |字符串 滑动窗口| 1 |
 | 078  | [子集](https://leetcode-cn.com/problems/subsets/)  | 中等 | [C++](./code/078.cpp) |位运算 dfs| 0 |
 | 079  | [单词搜索](https://leetcode-cn.com/problems/word-search/)  | 中等 | [C++](./code/079.cpp) |dfs 回溯| 0 |
 | 084  | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  | 困难 | [C++](./code/084.cpp) |单调栈| 0 |
