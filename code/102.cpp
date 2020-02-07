@@ -1,3 +1,10 @@
+ /*
+ * 102. 二叉树的层次遍历
+ * 普通层序遍历
+ * 难度：中等
+ * 分类：树
+ * 算法：队列，注意队列写法
+ */
 class Solution {
 public:
     vector<vector<int>> ans;
