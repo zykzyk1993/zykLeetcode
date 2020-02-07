@@ -1,3 +1,10 @@
+ /*
+ * 148. 排序链表
+ * 如题
+ * 难度：中等
+ * 分类：链表
+ * 算法：模拟使用快速排序或者归并排序(快慢指针拆分),注意链表连接情况
+ */
 /**
  * Definition for singly-linked list.
  * struct ListNode {
