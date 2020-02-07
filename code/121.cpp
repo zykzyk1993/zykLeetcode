@@ -1,3 +1,10 @@
+ /*
+ * 121. 买卖股票的最佳时机
+ * 只能买卖一次，最佳时机
+ * 难度：简单
+ * 分类：数组 dp
+ * 算法：记录minPre即可
+ */
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
