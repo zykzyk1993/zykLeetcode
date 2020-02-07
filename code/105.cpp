@@ -1,3 +1,10 @@
+ /*
+ * 105. 从前序与中序遍历序列构造二叉树
+ * 如题
+ * 难度：中等
+ * 分类：树
+ * 算法：辅助函数，记录节点，找到根节点在中序中的位置，然后递归左右
+ */
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
