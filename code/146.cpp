@@ -1,3 +1,10 @@
+ /*
+ * 146. LRU缓存机制
+ * 实现指定大小LRU缓存的存取操作
+ * 难度：中等
+ * 分类：哈希 链表
+ * 算法：使用队列来保存键值以及访问次序，然后使用键和迭代器来保存链表对应位置，每次访问，先删除队列对应位置再插入队头
+ */
 class LRUCache {
 public:
     unordered_map<int, list<pair<int,int>>::iterator> m;
