@@ -1,3 +1,10 @@
+ /*
+ * 160. 相交链表
+ * 找到两个单链表相交的起始节点
+ * 难度：简单
+ * 分类：链表
+ * 算法：先计算长度，然后长的先走差值，然后同步开始走，直到相遇
+ */
 /**
  * Definition for singly-linked list.
  * struct ListNode {
