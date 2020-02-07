@@ -1,3 +1,10 @@
+ /*
+ * 139. 单词拆分
+ * 给定非空字符串和字典，判断是否能够拆分
+ * 难度：中等
+ * 分类：dp
+ * 算法：对于每个位置，对应字典中每个单词，判断是否能够往前倒推
+ */
 class Solution {
 public:
     bool wordBreak(string s, vector<string>& wordDict) {
