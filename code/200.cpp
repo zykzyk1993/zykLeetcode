@@ -1,3 +1,10 @@
+ /*
+ * 200. 岛屿数量
+ * 01矩阵计算岛屿的总数(连通域个数)
+ * 难度：中等
+ * 分类：dfs
+ * 算法：标准四向dfs，计算dfs次数
+ */
 class Solution {
 public:
     int dx[4] = {0, 1, 0, -1};
@@ -22,6 +29,4 @@ public:
                     ans++;
                     dfs(i, j, grid);
                 }
-        return ans;
-    }
-};
+        return ans
