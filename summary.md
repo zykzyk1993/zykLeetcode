@@ -81,3 +81,8 @@
 | 309  | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  | 中等 | [C++](./code/309.cpp) |dp| 0 |
 | 312  | [戳气球](https://leetcode-cn.com/problems/burst-balloons/)  | 困难 | [C++](./code/312.cpp) |区间dp| 0 |
 | 322  | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)  | 中等 | [C++](./code/322.cpp) |dp 背包| 0 |
+| 337  | [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)  | 中等 | [C++](./code/337.cpp) |树 dp| 0 |
+| 338  | [比特位计数](https://leetcode-cn.com/problems/counting-bits/)  | 中等 | [C++](./code/338.cpp) |dp 位运算| 0 |
+| 347  | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)  | 中等 | [C++](./code/347.cpp) |堆 哈希| 0 |
+| 394  | [字符串解码](https://leetcode-cn.com/problems/decode-string/)  | 中等 | [C++](./code/394.cpp) |栈| 0 |
+| 399  | [除法求值](https://leetcode-cn.com/problems/evaluate-division/)  | 中等 | [C++](./code/399.cpp) |图 并查集| 0 |
