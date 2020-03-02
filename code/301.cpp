@@ -3,6 +3,7 @@ public:
     vector<string> ans;
     int minDeleteNum=0;
     void dfs(string remainS, int pos, int alreadyDeleteNum, int balance){
+        //注意dfs的时候优先走不删除的路径，并且及时剪枝，这样保证结果正确并提升效率
         if(alreadyDeleteNum>minDeleteNum)return;
         if(remainS.length()==pos){
             if(balance==0){
