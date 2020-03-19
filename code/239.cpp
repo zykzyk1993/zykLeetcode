@@ -1,3 +1,10 @@
+/*
+ * 239. 滑动窗口最大值
+ * 只可以看到在滑动窗口内的 k 个数字。滑动窗口每次只向右移动一位，返回滑动窗口中的最大值
+ * 难度：困难
+ * 分类：滑动窗口 双端队列
+ * 算法：使用双端队列，队尾操作保持单调递减，并且每次判断队头出队
+ */
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
