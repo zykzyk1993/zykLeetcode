@@ -1,3 +1,10 @@
+/*
+ * 208. 实现Trie树
+ * 实现一个 Trie (前缀树)，包含 insert, search, 和 startsWith 这三个操作。
+ * 难度：中等
+ * 分类：树 Trie树
+ * 算法：注意Trie树写法，采用26指针，并包含isLast标记
+ */
 class Node {
 public:
     bool isLast;
