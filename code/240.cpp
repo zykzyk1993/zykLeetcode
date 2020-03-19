@@ -1,3 +1,10 @@
+/*
+ * 240. 搜索二维矩阵 II
+ * 在从左到右从上到下递增的矩阵中快速查找
+ * 难度：中等
+ * 分类：二分 分治
+ * 算法：从右上角开始，根据大小情况来左移或者下移
+ */
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
