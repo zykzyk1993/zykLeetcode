@@ -1,3 +1,10 @@
+/*
+ * 238. 除自身以外数组的乘积
+ * 等于 nums 中除 nums[i] 之外其余各元素的乘积，不使用除法
+ * 难度：中等
+ * 分类：数组
+ * 算法：计算前缀后缀乘积
+ */
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
