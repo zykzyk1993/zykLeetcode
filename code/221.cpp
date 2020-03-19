@@ -1,3 +1,10 @@
+/*
+ * 221. 最大正方形
+ * 找到01矩阵中的最大正方形
+ * 难度：中等
+ * 分类：dp
+ * 算法：递推公式dp[i][j]=min(min(dp[i-1][j],dp[i][j-1]),dp[i-1][j-1])+1
+ */
 class Solution {
 public:
     int maximalSquare(vector<vector<char>>& matrix) {
