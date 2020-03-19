@@ -1,3 +1,10 @@
+/*
+ * 234. 回文链表
+ * 判断一个链表是否是回文链表
+ * 难度：简单
+ * 分类：链表
+ * 算法：使用O(1)空间，使用快慢指针找到中点，然后翻转头插法，然后逐个比较，可能还需要还原
+ */
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
