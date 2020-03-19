@@ -1,3 +1,10 @@
+/*
+ * 253. 会议室 II
+ * 给定起始和终止时间，至少需要多少间会议室，才能满足这些会议安排
+ * 难度：中等
+ * 分类：贪心 堆
+ * 算法：先按照起始时间排序，然后贪心插入堆，每次查看堆顶(最小可安排的会议室)是否出堆
+ */
 class Solution {
 public:
     int minMeetingRooms(vector<vector<int>>& intervals) {
