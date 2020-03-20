@@ -1,3 +1,10 @@
+/*
+ * 322. 零钱兑换
+ * 计算可以凑成总金额所需的最少的硬币个数
+ * 难度：中等
+ * 分类：dp
+ * 算法：可以重复使用的完全背包问题，注意初始条件
+ */
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
