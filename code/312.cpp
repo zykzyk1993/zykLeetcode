@@ -1,3 +1,10 @@
+/*
+ * 312. 戳气球
+ * 逐个戳破气球序列，没戳破一个气球获得当前气球和相邻气球的奖励，戳破后就不存在
+ * 难度：困难
+ * 分类：dp 区间dp
+ * 算法：使用dp[start][end]来表示，注意递推方式为考虑splitIdx为范围内最后一个被戳破气球来递推
+ */
 class Solution {
 public:
     int maxCoins(vector<int>& nums) {
