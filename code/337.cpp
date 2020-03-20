@@ -1,3 +1,10 @@
+/*
+ * 337. 打家劫舍 III
+ * 树形区域，不能打劫相邻房屋，求最大收益
+ * 难度：中等
+ * 分类：树 dp
+ * 算法：同时记录抢劫根节点和未抢劫根节点的结果，注意函数的巧妙写法
+ */
 class Solution {
 public:
     vector<int> robHelper(TreeNode* root){
