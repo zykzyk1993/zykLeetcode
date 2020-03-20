@@ -1,3 +1,10 @@
+/*
+ * 394. 字符串解码
+ * 解码k[encoded_string]编码的字符串
+ * 难度：中等
+ * 分类：栈
+ * 算法：使用两个栈分别保存数字和字符，注意压栈时机，每次压入当前数字和之前的字符
+ */
 class Solution {
 public:
     string decodeString(string s) {
