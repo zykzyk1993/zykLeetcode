@@ -1,3 +1,10 @@
+/*
+ * 399. 除法求值
+ * 给定一些除法方程式，推导出一些除法方程式
+ * 难度：中等
+ * 分类：图 并查集
+ * 算法：建hash表保存等式以及邻接，然后在图中使用宽度优先遍历
+ */
 class Solution {
 public:
     double cal(string a, string b, map<pair<string,string>,double> &m, map<string,vector<string>> &eqs){
