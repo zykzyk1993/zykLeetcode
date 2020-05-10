@@ -1,3 +1,10 @@
+/*
+ * 617. 合并二叉树
+ * 两棵二叉树叠加覆盖
+ * 难度：简单
+ * 分类：二叉树
+ * 算法：递归，先判空，然后累加返回
+ */
 class Solution {
 public:
     TreeNode* mergeTrees(TreeNode* t1, TreeNode* t2) {
