@@ -1,3 +1,10 @@
+/*
+ * 621. 任务调度器
+ * 任务调度最小时间，两个相同种类的任务之间必须有长度为 n 的冷却时间
+ * 难度：中等
+ * 分类：贪心 数组
+ * 算法：设计方法，要么可以使用l填满，否则最后一个需要maxCnt个最大的字符+1
+ */
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
