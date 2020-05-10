@@ -1,3 +1,10 @@
+/*
+ * 494. 目标和
+ * 给一个序列添加正负号，得到目标和
+ * 难度：中等
+ * 分类：DP
+ * 算法：背包问题，实际上还是能否组成diff/2的和，把这些部分+改成-即可
+ */
 class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int S) {
