@@ -1,3 +1,10 @@
+/*
+ * 461. 汉明距离
+ * 计算汉明距离
+ * 难度：简单
+ * 分类：位运算
+ * 算法：异或，计算1的位数
+ */
 class Solution {
 public:
     int hammingDistance(int x, int y){
