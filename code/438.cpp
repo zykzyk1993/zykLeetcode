@@ -1,3 +1,10 @@
+/*
+ * 438. 找到字符串中所有字母异位词
+ * 给定一个字符串 s 和一个非空字符串 p，找到 s 中所有是 p 的字母异位词的子串，返回这些子串的起始索引。
+ * 难度：中等
+ * 分类：滑动窗口
+ * 算法：使用滑动窗口计数
+ */
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
