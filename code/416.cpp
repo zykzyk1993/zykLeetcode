@@ -1,3 +1,10 @@
+/*
+ * 416. 分割等和子集
+ * 给定一个只包含正整数的非空数组。是否可以将这个数组分割成两个子集，使得两个子集的元素和相等
+ * 难度：中等
+ * 分类：DP
+ * 算法：背包问题，如果能组成sum/2则返回true
+ */
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
