@@ -1,3 +1,10 @@
+/*
+ * 771. 宝石与石头
+ * 字符串中字符种类
+ * 难度：简单
+ * 分类：哈希 模拟
+ * 算法：简单模拟
+ */
 class Solution {
 public:
     int numJewelsInStones(string J, string S)
