@@ -2,11 +2,11 @@
 
 | \# | 问题 | 难度 | 代码 | 标签 | 复习次数 |
 |----|----------|-----------|------|------|------|
-| 001  | [两数相加](https://leetcode-cn.com/problems/two-sum/)  | 简单 | [C++](./code/001.cpp) | 哈希表 | 1 |
-| 002  | [两数之和](https://leetcode-cn.com/problems/add-two-numbers/)  | 中等 | [C++](./code/002.cpp) | 链表 | 1 |
-| 003  | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  | 中等 | [C++](./code/003.cpp)| 哈希表 | 1 |
-| 004  | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)  | 困难 | [C++](./code/004.cpp) |二分 分治| 1 |
-| 005  | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)  | 中等 | [C++](./code/005.cpp) |dp manacher | 1 |
+| 001  | [两数相加](https://leetcode-cn.com/problems/two-sum/)  | 简单 | [C++](./code/001.cpp) | 哈希表 | 2 |
+| 002  | [两数之和](https://leetcode-cn.com/problems/add-two-numbers/)  | 中等 | [C++](./code/002.cpp) | 链表 | 2 |
+| 003  | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  | 中等 | [C++](./code/003.cpp)| 哈希表 | 2 |
+| 004  | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)  | 困难 | [C++](./code/004.cpp) |二分 分治| 2 |
+| 005  | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)  | 中等 | [C++](./code/005.cpp) |dp manacher | 2 |
 | 010  | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)  | 困难 | [C++](./code/010.cpp) |dp| 1 |
 | 011  | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)  | 中等 | [C++](./code/011.cpp) |双指针| 1 |
 | 015  | [三数之和](https://leetcode-cn.com/problems/3sum/)  | 中等 | [C++](./code/015.cpp) |双指针| 1 |
