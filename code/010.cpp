@@ -37,3 +37,32 @@ public:
         return dp[sLen][pLen];
     }
 };
+
+//2021
+class Solution {
+public:
+    bool isMatch(string s, string p) {
+        int n = s.size(), m = p.size();
+        vector<vector<bool>> dp(m+1, vector<bool>(n+1, false));
+        dp[0][0] = true;
+        for(int i = 0; i < p.size(); i++) {
+            if (i > 0 && p[i] == '*'){
+                dp[i+1][0] = dp[i-1][0];
+            }
+        }
+        for(int i = 0; i < p.size(); i++) {
+            for(int j = 0; j < s.size(); j++){
+                if (i > 0 && p[i] == '*'){
+                    dp[i+1][j+1] = dp[i+1][j+1] || dp[i-1][j+1];
+                    if (p[i-1] == '.' || p[i-1] == s[j]) {
+                        dp[i+1][j+1] = dp[i+1][j+1] || dp[i+1][j] || dp[i-1][j];
+                    }
+                }
+                else if (p[i] == '.' || p[i] == s[j]){
+                    dp[i+1][j+1] = dp[i+1][j+1] || dp[i][j];
+                }
+            }
+        }
+        return dp[m][n];
+    }
+};
