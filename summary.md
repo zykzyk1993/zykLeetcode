@@ -7,7 +7,11 @@
 | 003  | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  | 中等 | [C++](./code/003.cpp)| 哈希表 | 2 |
 | 004  | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)  | 困难 | [C++](./code/004.cpp) |二分 分治| 2 |
 | 005  | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)  | 中等 | [C++](./code/005.cpp) |dp manacher | 2 |
-| 010  | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)  | 困难 | [C++](./code/010.cpp) |dp| 1 |
+| 006  | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)  | 中等 | [C++](./code/006.cpp) |模拟 字符串 | 1 |
+| 007  | [整数反转](https://leetcode-cn.com/problems/reverse-integer/)  | 简单 | [C++](./code/007.cpp) |数学 模拟 | 1 |
+| 008  | [字符串转换整数](https://leetcode-cn.com/problems/string-to-integer-atoi/)  | 中等 | [C++](./code/008.cpp) |模拟 字符串 | 1 |
+| 009  | [回文数](https://leetcode-cn.com/problems/palindrome-number/)  | 简单 | [C++](./code/009.cpp) |数学 模拟 | 1 |
+| 010  | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)  | 困难 | [C++](./code/010.cpp) |dp| 2 |
 | 011  | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)  | 中等 | [C++](./code/011.cpp) |双指针| 1 |
 | 015  | [三数之和](https://leetcode-cn.com/problems/3sum/)  | 中等 | [C++](./code/015.cpp) |双指针| 1 |
 | 017  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  | 中等 | [C++](./code/017.cpp) |dfs| 1 |
