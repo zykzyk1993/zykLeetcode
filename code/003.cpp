@@ -23,3 +23,21 @@ public:
         return maxLen;
     }
 };
+
+//2021
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        unordered_map<char, int> m_left_idx; //当前字符最靠右的idx,用来计算子串长度
+        int max_len = 0, cur_left_bound = 0;
+        for(int i = 0; i < s.size(); i++){
+            char c = s[i];
+            if (m_left_idx.count(c) > 0 && m_left_idx[c] >= cur_left_bound){
+                cur_left_bound = m_left_idx[c] + 1;
+            }
+            max_len = max(max_len, i - cur_left_bound + 1);
+            m_left_idx[c] = i;
+        }
+        return max_len;
+    }
+};
