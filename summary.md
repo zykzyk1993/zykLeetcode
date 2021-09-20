@@ -16,7 +16,7 @@
 | 012  | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/)  | 简单 | [C++](./code/012.cpp) |字符串 模拟| 1 |
 | 013  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)  | 简单 | [C++](./code/013.cpp) |字符串 模拟| 1 |
 | 014  | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)  | 简单 | [C++](./code/014.cpp) |字符串| 1 |
-| 015  | [三数之和](https://leetcode-cn.com/problems/3sum/)  | 中等 | [C++](./code/015.cpp) |双指针| 1 |
+| 015  | [三数之和](https://leetcode-cn.com/problems/3sum/)  | 中等 | [C++](./code/015.cpp) |双指针| 2 |
 | 017  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  | 中等 | [C++](./code/017.cpp) |dfs| 1 |
 | 019  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  | 中等 | [C++](./code/019.cpp) |链表| 1 |
 | 020  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | 简单 | [C++](./code/020.cpp) |栈| 1 |
