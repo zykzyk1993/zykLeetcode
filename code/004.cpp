@@ -45,3 +45,43 @@ public:
         }
     }
 };
+
+//2021
+class Solution {
+public:
+    int findKthNum(vector<int> &nums1, vector<int> &nums2, int start1, int start2, int k){
+        if (nums1.size() - start1 < nums2.size() - start2) {
+            return findKthNum(nums2, nums1, start2, start1, k);
+        }
+        if (start2 >= nums2.size()) {
+            return nums1[start1 + k - 1];
+        }
+        if (k == 1) {
+            return min(nums1[start1], nums2[start2]);
+        }
+        int s2 = nums2.size() - start2;
+        int l2 = min(k/2, s2);
+        int l1 = k - l2;
+        int pos1 = start1 + l1 - 1;
+        int pos2 = start2 + l2 - 1;
+        if(nums1[pos1] == nums2[pos2]){
+            return nums1[pos1];
+        }
+        else if(nums1[pos1] < nums2[pos2]) {
+            return findKthNum(nums1, nums2, pos1 + 1, start2, l2);
+        }
+        else {
+            return findKthNum(nums1, nums2, start1, pos2 + 1, l1);
+        }
+    }
+    
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        int sum = nums1.size() + nums2.size();
+        if (sum % 2 == 1){
+            return findKthNum(nums1, nums2, 0, 0, sum / 2 + 1);
+        }
+        else {
+            return (findKthNum(nums1, nums2, 0, 0, sum / 2) + findKthNum(nums1, nums2, 0, 0, sum / 2 + 1)) * 0.5;
+        }
+    }
+};
