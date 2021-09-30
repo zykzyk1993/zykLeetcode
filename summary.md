@@ -17,17 +17,17 @@
 | 013  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)  | 简单 | [C++](./code/013.cpp) |字符串 模拟| 1 |
 | 014  | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)  | 简单 | [C++](./code/014.cpp) |字符串| 1 |
 | 015  | [三数之和](https://leetcode-cn.com/problems/3sum/)  | 中等 | [C++](./code/015.cpp) |双指针| 2 |
-| 017  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  | 中等 | [C++](./code/017.cpp) |dfs| 1 |
-| 019  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  | 中等 | [C++](./code/019.cpp) |链表| 1 |
-| 020  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | 简单 | [C++](./code/020.cpp) |栈| 1 |
-| 021  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  | 简单 | [C++](./code/021.cpp) |链表| 1 |
-| 022  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  | 中等 | [C++](./code/022.cpp) |dfs| 1 |
-| 023  | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  | 困难 | [C++](./code/023.cpp) |链表 堆| 1 |
-| 032  | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  | 困难 | [C++](./code/032.cpp) |线性扫描| 1 |
-| 033  | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  | 中等 | [C++](./code/033.cpp) |二分查找| 1 |
-| 034  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | 中等 | [C++](./code/034.cpp) |二分查找| 1 |
-| 035  | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  | 简单 | [C++](./code/035.cpp) |二分查找| 1 |
-| 039  | [组合总和](https://leetcode-cn.com/problems/combination-sum/)  | 中等 | [C++](./code/039.cpp) |dfs 回溯| 1 |
+| 017  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  | 中等 | [C++](./code/017.cpp) |dfs| 2 |
+| 019  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  | 中等 | [C++](./code/019.cpp) |链表| 2 |
+| 020  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | 简单 | [C++](./code/020.cpp) |栈| 2 |
+| 021  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  | 简单 | [C++](./code/021.cpp) |链表| 2 |
+| 022  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  | 中等 | [C++](./code/022.cpp) |dfs| 2 |
+| 023  | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  | 困难 | [C++](./code/023.cpp) |链表 堆| 2 |
+| 032  | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  | 困难 | [C++](./code/032.cpp) |线性扫描| 2 |
+| 033  | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  | 中等 | [C++](./code/033.cpp) |二分查找| 2 |
+| 034  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | 中等 | [C++](./code/034.cpp) |二分查找| 2 |
+| 035  | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  | 简单 | [C++](./code/035.cpp) |二分查找| 2 |
+| 039  | [组合总和](https://leetcode-cn.com/problems/combination-sum/)  | 中等 | [C++](./code/039.cpp) |dfs 回溯| 2 |
 | 042  | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  | 困难 | [C++](./code/042.cpp) |模拟 单调栈| 1 |
 | 046  | [全排列](https://leetcode-cn.com/problems/permutations/)  | 中等 | [C++](./code/046.cpp) |dfs 回溯| 1 |
 | 048  | [旋转图像](https://leetcode-cn.com/problems/rotate-image/)  | 中等 | [C++](./code/048.cpp) |模拟| 1 |
