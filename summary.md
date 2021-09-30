@@ -17,12 +17,22 @@
 | 013  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)  | 简单 | [C++](./code/013.cpp) |字符串 模拟| 1 |
 | 014  | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)  | 简单 | [C++](./code/014.cpp) |字符串| 1 |
 | 015  | [三数之和](https://leetcode-cn.com/problems/3sum/)  | 中等 | [C++](./code/015.cpp) |双指针| 2 |
+| 016  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)  | 中等 | [C++](./code/016.cpp) |双指针| 1 |
 | 017  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)  | 中等 | [C++](./code/017.cpp) |dfs| 2 |
+| 018  | [四数之和](https://leetcode-cn.com/problems/4sum/)  | 中等 | [C++](./code/018.cpp) |双指针| 1 |
 | 019  | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)  | 中等 | [C++](./code/019.cpp) |链表| 2 |
 | 020  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)  | 简单 | [C++](./code/020.cpp) |栈| 2 |
 | 021  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)  | 简单 | [C++](./code/021.cpp) |链表| 2 |
 | 022  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)  | 中等 | [C++](./code/022.cpp) |dfs| 2 |
 | 023  | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)  | 困难 | [C++](./code/023.cpp) |链表 堆| 2 |
+| 024  | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)  | 中等 | [C++](./code/024.cpp) |链表| 1 |
+| 025  | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)  | 困难 | [C++](./code/025.cpp) |链表| 1 |
+| 026  | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)  | 简单 | [C++](./code/026.cpp) |数组| 1 |
+| 027  | [移除元素](https://leetcode-cn.com/problems/remove-element/)  | 简单 | [C++](./code/027.cpp) |数组| 1 |
+| 028  | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)  | 简单 | [C++](./code/028.cpp) |字符串| 1 |
+| 029  | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/)  | 中等 | [C++](./code/029.cpp) |位运算| 1 |
+| 030  | [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)  | 困难 | [C++](./code/030.cpp) |字符串 滑动窗口| 1 |
+| 031  | [下一个排列](https://leetcode-cn.com/problems/next-permutation/)  | 中等 | [C++](./code/031.cpp) |数组 双指针| 1 |
 | 032  | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)  | 困难 | [C++](./code/032.cpp) |线性扫描| 2 |
 | 033  | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  | 中等 | [C++](./code/033.cpp) |二分查找| 2 |
 | 034  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | 中等 | [C++](./code/034.cpp) |二分查找| 2 |
