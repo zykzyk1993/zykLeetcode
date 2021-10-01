@@ -37,7 +37,11 @@
 | 033  | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  | 中等 | [C++](./code/033.cpp) |二分查找| 2 |
 | 034  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)  | 中等 | [C++](./code/034.cpp) |二分查找| 2 |
 | 035  | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  | 简单 | [C++](./code/035.cpp) |二分查找| 2 |
+| 036  | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)  | 中等 | [C++](./code/036.cpp) |模拟| 1 |
+| 037  | [解数独](https://leetcode-cn.com/problems/sudoku-solver/)  | 困难 | [C++](./code/037.cpp) |dfs| 1 |
+| 038  | [外观数列](https://leetcode-cn.com/problems/count-and-say/)  | 中等 | [C++](./code/038.cpp) |模拟| 1 |
 | 039  | [组合总和](https://leetcode-cn.com/problems/combination-sum/)  | 中等 | [C++](./code/039.cpp) |dfs 回溯| 2 |
+| 040  | [组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)  | 中等 | [C++](./code/040.cpp) |dfs 回溯| 1 |
 | 042  | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  | 困难 | [C++](./code/042.cpp) |模拟 单调栈| 1 |
 | 046  | [全排列](https://leetcode-cn.com/problems/permutations/)  | 中等 | [C++](./code/046.cpp) |dfs 回溯| 1 |
 | 048  | [旋转图像](https://leetcode-cn.com/problems/rotate-image/)  | 中等 | [C++](./code/048.cpp) |模拟| 1 |
