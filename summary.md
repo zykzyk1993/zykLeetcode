@@ -130,4 +130,5 @@
 | 621  | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/)  | 中等 | [C++](./code/621.cpp) |贪心| 1 |
 | 647  | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)  | 中等 | [C++](./code/647.cpp) |字符串 dp| 1 |
 | 665  | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)  | 中等 | [C++](./code/665.cpp) |贪心| 1 |
+| 763  | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/)  | 中等 | [C++](./code/763.cpp) |贪心| 1 |
 | 771  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)  | 简单 | [C++](./code/771.cpp) |哈希| 1 |
