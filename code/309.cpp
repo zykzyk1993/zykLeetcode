@@ -4,6 +4,7 @@
  * 难度：中等
  * 分类：dp
  * 算法：可以考虑使用最后一天是否卖出来设定dp数组，也可以采用股票问题的统一解决方法dp[i][k][0或1]i天k次是否持有
+ * 或者使用有限状态机，递推转移
  */
 class Solution {
 public:
@@ -22,17 +23,17 @@ public:
     }
 };
 
+// cool刚卖出 hold持有 sell卖出了冷却了
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int k=prices.size();
-        int dp_i_0=0,dp_i_1=INT_MIN,dp_pre_0=0;//dp_pre_0代表dp[i-2][0]
-        for(int i=0;i<k;i++){
-            int temp=dp_i_0;
-            dp_i_0=max(dp_i_0,dp_i_1+prices[i]);
-            dp_i_1=max(dp_i_1,dp_pre_0-prices[i]);
-            dp_pre_0=temp;
+        int hold = -prices[0], cool = 0, sell = 0, temp_cool;
+        for(int i = 1; i < prices.size(); i ++){
+            temp_cool = cool;
+            cool = hold + prices[i];
+            hold = max(hold, sell - prices[i]);
+            sell = max(temp_cool, sell);
         }
-        return dp_i_0;
+        return max(cool, sell);
     }
 };
