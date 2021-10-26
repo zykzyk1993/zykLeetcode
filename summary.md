@@ -118,7 +118,9 @@
 | 208  | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)  | 中等 | [C++](./code/208.cpp) |树 Trie树| 1 |
 | 213  | [打家劫舍II](https://leetcode-cn.com/problems/house-robber-ii/)  | 中等 | [C++](./code/213.cpp) |dp| 1 |
 | 215  | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)  | 中等 | [C++](./code/215.cpp) |数组 快排| 1 |
+| 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | 简单 | [C++](./code/217.cpp) |哈希表| 1 |
 | 221  | [最大正方形](https://leetcode-cn.com/problems/maximal-square/)  | 中等 | [C++](./code/221.cpp) |dp| 2 |
+| 225  | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)  | 简单 | [C++](./code/225.cpp) |队列 栈| 1 |
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)  | 简单 | [C++](./code/226.cpp) |树| 1 |
 | 232  | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)  | 简单 | [C++](./code/232.cpp) |栈 队列| 1 |
 | 234  | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)  | 简单 | [C++](./code/234.cpp) |双指针 链表| 1 |
@@ -130,10 +132,12 @@
 | 253  | [会议室II](https://leetcode-cn.com/problems/meeting-rooms-ii/)  | 中等 | [C++](./code/253.cpp) |堆 贪心| 1 |
 | 257  | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)  | 简单 | [C++](./code/257.cpp) |树 dfs| 1 |
 | 260  | [只出现一次的数字III](https://leetcode-cn.com/problems/single-number-iii/)  | 中等 | [C++](./code/260.cpp) |位运算| 1 |
+| 263  | [丑数](https://leetcode-cn.com/problems/ugly-number/)  | 简单 | [C++](./code/263.cpp) |数学| 1 |
+| 264  | [丑数II](https://leetcode-cn.com/problems/ugly-number-ii/)  | 中等 | [C++](./code/264.cpp) |数学 dp| 1 |
 | 268  | [丢失的数字](https://leetcode-cn.com/problems/missing-number/)  | 简单 | [C++](./code/268.cpp) |位运算| 1 |
 | 279  | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/)  | 中等 | [C++](./code/279.cpp) |dp 数学| 2 |
 | 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes/)  | 简单 | [C++](./code/283.cpp) |数组 双指针| 1 |
-| 287  | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)  | 中等 | [C++](./code/287.cpp) |数组 双指针| 1 |
+| 287  | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)  | 中等 | [C++](./code/287.cpp) |数组 双指针| 2 |
 | 297  | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)  | 困难 | [C++](./code/297.cpp) |树 字符串| 1 |
 | 300  | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  | 中等 | [C++](./code/300.cpp) |dp 二分| 2 |
 | 303  | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)  | 简单 | [C++](./code/303.cpp) |前缀和| 1 |
@@ -141,6 +145,7 @@
 | 309  | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  | 中等 | [C++](./code/309.cpp) |dp| 2 |
 | 310  | [最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/)  | 中等 | [C++](./code/310.cpp) |树 bfs| 1 |
 | 312  | [戳气球](https://leetcode-cn.com/problems/burst-balloons/)  | 困难 | [C++](./code/312.cpp) |区间dp| 2 |
+| 313  | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/)  | 中等 | [C++](./code/313.cpp) |数学 dp| 1 |
 | 318  | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)  | 中等 | [C++](./code/318.cpp) |位运算| 1 |
 | 322  | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)  | 中等 | [C++](./code/322.cpp) |dp 背包| 2 |
 | 326  | [3的幂](https://leetcode-cn.com/problems/power-of-three/)  | 简单 | [C++](./code/326.cpp) |数学| 1 |
@@ -169,6 +174,7 @@
 | 474  | [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)  | 中等 | [C++](./code/474.cpp) |dp| 1 |
 | 476  | [数字的补数](https://leetcode-cn.com/problems/number-complement/)  | 简单 | [C++](./code/476.cpp) |位运算| 1 |
 | 494  | [目标和](https://leetcode-cn.com/problems/target-sum/)  | 中等 | [C++](./code/494.cpp) |dp| 1 |
+| 503  | [下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/)  | 中等 | [C++](./code/503.cpp) |单调栈| 1 |
 | 504  | [七进制数](https://leetcode-cn.com/problems/base-7/)  | 中等 | [C++](./code/504.cpp) |数学| 1 |
 | 524  | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)  | 中等 | [C++](./code/524.cpp) |字符串 双指针| 1 |
 | 528  | [按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/)  | 中等 | [C++](./code/528.cpp) |数学 前缀和| 1 |
@@ -177,10 +183,12 @@
 | 542  | [01矩阵](https://leetcode-cn.com/problems/01-matrix/)  | 中等 | [C++](./code/542.cpp) |dp| 1 |
 | 543  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)  | 简单 | [C++](./code/543.cpp) |树| 1 |
 | 547  | [身份数量](https://leetcode-cn.com/problems/number-of-provinces/)  | 中等 | [C++](./code/547.cpp) |dfs| 1 |
-| 560  | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  | 中等 | [C++](./code/560.cpp) |数组 哈希| 1 |
+| 560  | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  | 中等 | [C++](./code/560.cpp) |数组 哈希| 2 |
+| 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/submissions/)  | 简单 | [C++](./code/566.cpp) |模拟| 1 |
 | 572  | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)  | 简单 | [C++](./code/572.cpp) |树| 1 |
 | 581  | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)  | 简单 | [C++](./code/581.cpp) |数组| 1 |
 | 583  | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)  | 中等 | [C++](./code/583.cpp) |字符串 dp| 1 |
+| 594  | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)  | 简单 | [C++](./code/594.cpp) |哈希表| 1 |
 | 617  | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)  | 简单 | [C++](./code/617.cpp) |树| 1 |
 | 621  | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/)  | 中等 | [C++](./code/621.cpp) |贪心| 1 |
 | 633  | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)  | 中等 | [C++](./code/633.cpp) |双指针| 1 |
@@ -191,6 +199,7 @@
 | 680  | [验证回文字符串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)  | 简单 | [C++](./code/680.cpp) |字符串 模拟| 1 |
 | 693  | [交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)  | 简单 | [C++](./code/693.cpp) |位运算| 1 |
 | 695  | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)  | 中等 | [C++](./code/695.cpp) |dfs| 1 |
+| 697  | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)  | 简单 | [C++](./code/697.cpp) |哈希表| 1 |
 | 714  | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)  | 中等 | [C++](./code/714.cpp) |dp| 1 |
 | 735  | [行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/)  | 中等 | [C++](./code/735.cpp) |栈| 1 |
 | 739  | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/)  | 中等 | [C++](./code/739.cpp) |单调栈| 1 |
