@@ -113,6 +113,7 @@
 | 198  | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  | 简单 | [C++](./code/198.cpp) |数组 dp| 2 |
 | 200  | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)  | 中等 | [C++](./code/200.cpp) |dfs| 1 |
 | 204  | [计数质数](https://leetcode-cn.com/problems/count-primes/)  | 中等 | [C++](./code/204.cpp) |数学| 1 |
+| 205  | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)  | 简单 | [C++](./code/205.cpp) |字符串| 1 |
 | 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  | 简单 | [C++](./code/206.cpp) |链表| 1 |
 | 207  | [课程表](https://leetcode-cn.com/problems/course-schedule/)  | 中等 | [C++](./code/207.cpp) |图 dfs 拓扑排序| 1 |
 | 208  | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)  | 中等 | [C++](./code/208.cpp) |树 Trie树| 1 |
@@ -129,6 +130,7 @@
 | 239  | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)  | 困难 | [C++](./code/239.cpp) |滑动窗口 双端队列| 2 |
 | 240  | [搜索二维矩阵II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)  | 中等 | [C++](./code/240.cpp) |二分 分治| 2 |
 | 241  | [为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/)  | 中等 | [C++](./code/241.cpp) |分治| 1 |
+| 242  | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)  | 简单 | [C++](./code/242.cpp) |字符串| 1 |
 | 253  | [会议室II](https://leetcode-cn.com/problems/meeting-rooms-ii/)  | 中等 | [C++](./code/253.cpp) |堆 贪心| 1 |
 | 257  | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)  | 简单 | [C++](./code/257.cpp) |树 dfs| 1 |
 | 260  | [只出现一次的数字III](https://leetcode-cn.com/problems/single-number-iii/)  | 中等 | [C++](./code/260.cpp) |位运算| 1 |
@@ -159,6 +161,7 @@
 | 394  | [字符串解码](https://leetcode-cn.com/problems/decode-string/)  | 中等 | [C++](./code/394.cpp) |栈| 1 |
 | 399  | [除法求值](https://leetcode-cn.com/problems/evaluate-division/)  | 中等 | [C++](./code/399.cpp) |图 并查集| 1 |
 | 406  | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)  | 中等 | [C++](./code/406.cpp) |贪心| 2 |
+| 409  | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)  | 简单 | [C++](./code/409.cpp) |字符串| 1 |
 | 413  | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)  | 中等 | [C++](./code/413.cpp) |数组 dp| 1 |
 | 415  | [字符串相加](https://leetcode-cn.com/problems/add-strings/)  | 中等 | [C++](./code/415.cpp) |数学 模拟| 1 |
 | 416  | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)  | 中等 | [C++](./code/416.cpp) |dfs dp| 2 |
@@ -193,7 +196,7 @@
 | 621  | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/)  | 中等 | [C++](./code/621.cpp) |贪心| 1 |
 | 633  | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)  | 中等 | [C++](./code/633.cpp) |双指针| 1 |
 | 646  | [最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)  | 中等 | [C++](./code/646.cpp) |贪心| 1 |
-| 647  | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)  | 中等 | [C++](./code/647.cpp) |字符串 dp| 1 |
+| 647  | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)  | 中等 | [C++](./code/647.cpp) |字符串 dp| 2 |
 | 650  | [只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/)  | 中等 | [C++](./code/650.cpp) |dp| 1 |
 | 665  | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)  | 中等 | [C++](./code/665.cpp) |贪心| 1 |
 | 680  | [验证回文字符串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)  | 简单 | [C++](./code/680.cpp) |字符串 模拟| 1 |
@@ -206,5 +209,6 @@
 | 763  | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/)  | 中等 | [C++](./code/763.cpp) |贪心| 1 |
 | 769  | [最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)  | 中等 | [C++](./code/769.cpp) |数组 贪心| 1 |
 | 771  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)  | 简单 | [C++](./code/771.cpp) |哈希| 1 |
+| 870  | [优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)  | 中等 | [C++](./code/870.cpp) |数组 贪心| 1 |
 | 934  | [最短的桥](https://leetcode-cn.com/problems/shortest-bridge/)  | 中等 | [C++](./code/934.cpp) |bfs| 1 |
 | 1277  | [统计全为 1 的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)  | 中等 | [C++](./code/1277.cpp) |dp| 1 |
