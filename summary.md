@@ -152,6 +152,7 @@
 | 318  | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)  | 中等 | [C++](./code/318.cpp) |位运算| 1 |
 | 322  | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)  | 中等 | [C++](./code/322.cpp) |dp 背包| 2 |
 | 326  | [3的幂](https://leetcode-cn.com/problems/power-of-three/)  | 简单 | [C++](./code/326.cpp) |数学| 1 |
+| 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)  | 中等 | [C++](./code/328.cpp) |链表| 1 |
 | 337  | [打家劫舍III](https://leetcode-cn.com/problems/house-robber-iii/)  | 中等 | [C++](./code/337.cpp) |树 dp| 1 |
 | 338  | [比特位计数](https://leetcode-cn.com/problems/counting-bits/)  | 中等 | [C++](./code/338.cpp) |dp 位运算| 2 |
 | 342  | [4的幂](https://leetcode-cn.com/problems/power-of-four/)  | 简单 | [C++](./code/342.cpp) |位运算| 1 |
