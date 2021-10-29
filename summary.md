@@ -67,6 +67,7 @@
 | 079  | [单词搜索](https://leetcode-cn.com/problems/word-search/)  | 中等 | [C++](./code/079.cpp) |dfs 回溯| 2 |
 | 080  | [删除有序数组中的重复项II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)  | 中等 | [C++](./code/080.cpp) |数组 双指针| 1 |
 | 081  | [搜索旋转排序数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)  | 中等 | [C++](./code/081.cpp) |二分| 1 |
+| 083  | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)  | 简单 | [C++](./code/083.cpp) |链表| 1 |
 | 084  | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  | 困难 | [C++](./code/084.cpp) |单调栈| 1 |
 | 085  | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)  | 困难 | [C++](./code/085.cpp) |单调栈| 1 |
 | 086  | [分隔链表](https://leetcode-cn.com/problems/partition-list/)  | 中等 | [C++](./code/086.cpp) |链表 模拟| 1 |
@@ -97,13 +98,13 @@
 | 141  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  | 中等 | [C++](./code/141.cpp) |双指针 链表| 1 |
 | 142  | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  | 中等 | [C++](./code/142.cpp) |双指针 链表| 2 |
 | 146  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)  | 中等 | [C++](./code/146.cpp) |哈希 链表| 1 |
-| 148  | [排序链表](https://leetcode-cn.com/problems/sort-list/)  | 中等 | [C++](./code/148.cpp) |链表| 1 |
+| 148  | [排序链表](https://leetcode-cn.com/problems/sort-list/)  | 中等 | [C++](./code/148.cpp) |链表| 2 |
 | 149  | [直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)  | 困难 | [C++](./code/149.cpp) |数学 哈希表| 1 |
 | 150  | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | 中等 | [C++](./code/150.cpp) |栈| 1 |
 | 152  | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)  | 中等 | [C++](./code/152.cpp) |数组 dp| 1 |
 | 154  | [寻找旋转排序数组中的最小值II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)  | 困难 | [C++](./code/154.cpp) |二分| 1 |
 | 155  | [最小栈](https://leetcode-cn.com/problems/min-stack/)  | 简单 | [C++](./code/155.cpp) |栈| 2 |
-| 160  | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)  | 简单 | [C++](./code/160.cpp) |链表| 1 |
+| 160  | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)  | 简单 | [C++](./code/160.cpp) |链表| 2 |
 | 167  | [两数之和II-输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)  | 简单 | [C++](./code/167.cpp) |双指针| 1 |
 | 168  | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)  | 简单 | [C++](./code/168.cpp) |数学 模拟| 1 |
 | 169  | [多数元素](https://leetcode-cn.com/problems/majority-element/)  | 简单 | [C++](./code/169.cpp) |数组| 1 |
