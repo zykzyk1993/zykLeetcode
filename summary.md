@@ -78,10 +78,11 @@
 | 096  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)  | 中等 | [C++](./code/096.cpp) |树 dp| 2 |
 | 096  | [交错字符串](https://leetcode-cn.com/problems/interleaving-string/)  | 中等 | [C++](./code/097.cpp) |字符串 dp| 1 |
 | 098  | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)  | 中等 | [C++](./code/098.cpp) |树| 1 |
-| 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)  | 简单 | [C++](./code/101.cpp) |树| 1 |
+| 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)  | 简单 | [C++](./code/101.cpp) |树| 2 |
 | 102  | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)  | 中等 | [C++](./code/102.cpp) |树| 1 |
-| 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)  | 简单 | [C++](./code/104.cpp) |树| 1 |
+| 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)  | 简单 | [C++](./code/104.cpp) |树| 2 |
 | 105  | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  | 中等 | [C++](./code/105.cpp) |树| 1 |
+| 110  | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)  | 简单 | [C++](./code/110.cpp) |树| 1 |
 | 114  | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)  | 中等 | [C++](./code/114.cpp) |树| 1 |
 | 115  | [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)  | 困难 | [C++](./code/115.cpp) |字符串 dp| 1 |
 | 120  | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/)  | 中等 | [C++](./code/120.cpp) |dp| 1 |
@@ -168,7 +169,7 @@
 | 415  | [字符串相加](https://leetcode-cn.com/problems/add-strings/)  | 中等 | [C++](./code/415.cpp) |数学 模拟| 1 |
 | 416  | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)  | 中等 | [C++](./code/416.cpp) |dfs dp| 2 |
 | 417  | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | 中等 | [C++](./code/417.cpp) |dfs| 1 |
-| 437  | [路径总和III](https://leetcode-cn.com/problems/path-sum-iii/)  | 简单 | [C++](./code/437.cpp) |树| 1 |
+| 437  | [路径总和III](https://leetcode-cn.com/problems/path-sum-iii/)  | 简单 | [C++](./code/437.cpp) |树| 2 |
 | 438  | [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)  | 中等 | [C++](./code/438.cpp) |滑动窗口| 1 |
 | 448  | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)  | 简单 | [C++](./code/448.cpp) |数组| 2 |
 | 451  | [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)  | 中等 | [C++](./code/451.cpp) |哈希表 字符串| 1 |
@@ -186,7 +187,7 @@
 | 538  | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)  | 简单 | [C++](./code/538.cpp) |树| 1 |
 | 540  | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)  | 中等 | [C++](./code/540.cpp) |二分| 1 |
 | 542  | [01矩阵](https://leetcode-cn.com/problems/01-matrix/)  | 中等 | [C++](./code/542.cpp) |dp| 1 |
-| 543  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)  | 简单 | [C++](./code/543.cpp) |树| 1 |
+| 543  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)  | 简单 | [C++](./code/543.cpp) |树| 2 |
 | 547  | [身份数量](https://leetcode-cn.com/problems/number-of-provinces/)  | 中等 | [C++](./code/547.cpp) |dfs| 1 |
 | 560  | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  | 中等 | [C++](./code/560.cpp) |数组 哈希| 2 |
 | 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/submissions/)  | 简单 | [C++](./code/566.cpp) |模拟| 1 |
@@ -197,6 +198,7 @@
 | 617  | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)  | 简单 | [C++](./code/617.cpp) |树| 1 |
 | 621  | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/)  | 中等 | [C++](./code/621.cpp) |贪心| 1 |
 | 633  | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)  | 中等 | [C++](./code/633.cpp) |双指针| 1 |
+| 637  | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)  | 简单 | [C++](./code/637.cpp) |树| 1 |
 | 646  | [最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)  | 中等 | [C++](./code/646.cpp) |贪心| 1 |
 | 647  | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)  | 中等 | [C++](./code/647.cpp) |字符串 dp| 2 |
 | 650  | [只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/)  | 中等 | [C++](./code/650.cpp) |dp| 1 |
@@ -213,4 +215,5 @@
 | 771  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)  | 简单 | [C++](./code/771.cpp) |哈希| 1 |
 | 870  | [优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)  | 中等 | [C++](./code/870.cpp) |数组 贪心| 1 |
 | 934  | [最短的桥](https://leetcode-cn.com/problems/shortest-bridge/)  | 中等 | [C++](./code/934.cpp) |bfs| 1 |
+| 1110  | [删点成林](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/)  | 中等 | [C++](./code/1110.cpp) |树| 1 |
 | 1277  | [统计全为 1 的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)  | 中等 | [C++](./code/1277.cpp) |dp| 1 |
