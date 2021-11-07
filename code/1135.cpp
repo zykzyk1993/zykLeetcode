@@ -60,47 +60,43 @@ public:
 };
 
 //Prim算法
-struct cmp
-{
-	bool operator()(const pair<int,int>& a, const pair<int,int>& b) const
-	{
-		return a.second > b.second;//小顶堆, 距离小的优先
-	}
+struct cmp {
+    bool operator()(const pair<int, int> &a, const pair<int, int> &b) const {
+      return a.second > b.second;//小顶堆, 距离小的优先
+    }
 };
+
 class Solution {
 public:
-    int minimumCost(int N, vector<vector<int>>& connections) {
-		  vector<bool> vis(N+1, false);
+    int minimumCost(int N, vector <vector<int>> &connections) {
+      vector<bool> vis(N + 1, false);
       // 保存 顶点0 顶点1 距离
-    	vector<vector<pair<int,int>>> edges(N+1,vector<pair<int,int>>());
-    	for(auto& c : connections)
-      {
-          edges[c[0]].push_back({c[1],c[2]});
-          edges[c[1]].push_back({c[0],c[2]});
+      vector < vector < pair < int, int >> > edges(N + 1, vector < pair < int, int >> ());
+      for (auto &c : connections) {
+        edges[c[0]].push_back({c[1], c[2]});
+        edges[c[1]].push_back({c[0], c[2]});
       }
       //优先队列找到最小的边
-    	priority_queue<pair<int,int>, vector<pair<int,int>>, cmp> q;
-    	int to, distance, total = 0, edge = 0;
+      priority_queue < pair < int, int >, vector < pair < int, int >>, cmp > q;
+      int to, distance, total = 0, edge = 0;
       //第1个顶点
       vis[1] = true;
-      for(auto& e : edges[1])
-          q.push(e);           
-    	while(!q.empty())
-    	{
-    		to = q.top().first;
-    		distance = q.top().second;
-    		q.pop();
-    		if(!vis[to])
-            {
-                vis[to] = true;
-                total += distance;
-                edge++;
-                if(edge == N-1)
-                    return total;
-                for(auto& e : edges[to])
-                    q.push(e);           
-            }
-    	}
-    	return -1;
+      for (auto &e : edges[1])
+        q.push(e);
+      while (!q.empty()) {
+        to = q.top().first;
+        distance = q.top().second;
+        q.pop();
+        if (!vis[to]) {
+          vis[to] = true;
+          total += distance;
+          edge++;
+          if (edge == N - 1)
+            return total;
+          for (auto &e : edges[to])
+            q.push(e);
+        }
+      }
+      return -1;
     }
 };
