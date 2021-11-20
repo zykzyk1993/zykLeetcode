@@ -29,4 +29,6 @@ public:
                     ans++;
                     dfs(i, j, grid);
                 }
-        return ans
+        return ans;
+     }
+};
