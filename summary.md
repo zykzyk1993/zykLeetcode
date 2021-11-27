@@ -162,6 +162,7 @@
 | 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)  | 中等 | [C++](./code/328.cpp) |链表| 1 |
 | 337  | [打家劫舍III](https://leetcode-cn.com/problems/house-robber-iii/)  | 中等 | [C++](./code/337.cpp) |树 dp| 1 |
 | 338  | [比特位计数](https://leetcode-cn.com/problems/counting-bits/)  | 中等 | [C++](./code/338.cpp) |dp 位运算| 2 |
+| 341  | [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)  | 中等 | [C++](./code/341.cpp) |树 dfs| 1 |
 | 342  | [4的幂](https://leetcode-cn.com/problems/power-of-four/)  | 简单 | [C++](./code/342.cpp) |位运算| 1 |
 | 347  | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)  | 中等 | [C++](./code/347.cpp) |堆 哈希| 1 |
 | 376  | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)  | 中等 | [C++](./code/376.cpp) |dp| 1 |
@@ -230,6 +231,7 @@
 | 769  | [最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)  | 中等 | [C++](./code/769.cpp) |数组 贪心| 1 |
 | 771  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)  | 简单 | [C++](./code/771.cpp) |哈希| 1 |
 | 785  | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)  | 中等 | [C++](./code/785.cpp) |图| 1 |
+| 797  | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)  | 中等 | [C++](./code/797.cpp) |图| 1 |
 | 870  | [优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)  | 中等 | [C++](./code/870.cpp) |数组 贪心| 1 |
 | 882  | [细分图中的可到达结点](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph/)  | 困难 | [C++](./code/882.cpp) |图| 1 |
 | 889  | [根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)  | 中等 | [C++](./code/889.cpp) |树| 1 |
@@ -239,4 +241,5 @@
 | 1110  | [删点成林](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/)  | 中等 | [C++](./code/1110.cpp) |树| 1 |
 | 1135  | [最低成本联通所有城市](https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost/)  | 中等 | [C++](./code/1135.cpp) |图| 1 |
 | 1277  | [统计全为1的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)  | 中等 | [C++](./code/1277.cpp) |dp| 1 |
+| 1373  | [二叉搜索子树的最大键值和](https://leetcode-cn.com/problems/maximum-sum-bst-in-binary-tree/)  | 困难 | [C++](./code/1373.cpp) |二叉树| 1 |
 | 1905  | [统计子岛屿](https://leetcode-cn.com/problems/count-sub-islands/)  | 中等 | [C++](./code/1905.cpp) |dfs| 1 |
