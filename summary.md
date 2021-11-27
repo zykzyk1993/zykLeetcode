@@ -128,6 +128,7 @@
 | 215  | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)  | 中等 | [C++](./code/215.cpp) |数组 快排| 1 |
 | 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | 简单 | [C++](./code/217.cpp) |哈希表| 1 |
 | 221  | [最大正方形](https://leetcode-cn.com/problems/maximal-square/)  | 中等 | [C++](./code/221.cpp) |dp| 2 |
+| 222  | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)  | 中等 | [C++](./code/222.cpp) |树| 1 |
 | 225  | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)  | 简单 | [C++](./code/225.cpp) |队列 栈| 1 |
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)  | 简单 | [C++](./code/226.cpp) |树| 2 |
 | 232  | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)  | 简单 | [C++](./code/232.cpp) |栈 队列| 1 |
@@ -148,6 +149,7 @@
 | 279  | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/)  | 中等 | [C++](./code/279.cpp) |dp 数学| 2 |
 | 283  | [移动零](https://leetcode-cn.com/problems/move-zeroes/)  | 简单 | [C++](./code/283.cpp) |数组 双指针| 1 |
 | 287  | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)  | 中等 | [C++](./code/287.cpp) |数组 双指针| 2 |
+| 295  | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)  | 困难 | [C++](./code/295.cpp) |堆| 1 |
 | 297  | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)  | 困难 | [C++](./code/297.cpp) |树 字符串| 1 |
 | 300  | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)  | 中等 | [C++](./code/300.cpp) |dp 二分| 2 |
 | 303  | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)  | 简单 | [C++](./code/303.cpp) |前缀和| 1 |
@@ -174,6 +176,7 @@
 | 404  | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)  | 简单 | [C++](./code/404.cpp) |树| 1 |
 | 406  | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)  | 中等 | [C++](./code/406.cpp) |贪心| 2 |
 | 409  | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)  | 简单 | [C++](./code/409.cpp) |字符串| 1 |
+| 410  | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)  | 困难 | [C++](./code/410.cpp) |二分答案| 1 |
 | 413  | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)  | 中等 | [C++](./code/413.cpp) |数组 dp| 1 |
 | 415  | [字符串相加](https://leetcode-cn.com/problems/add-strings/)  | 中等 | [C++](./code/415.cpp) |数学 模拟| 1 |
 | 416  | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)  | 中等 | [C++](./code/416.cpp) |dfs dp| 2 |
@@ -190,6 +193,7 @@
 | 474  | [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)  | 中等 | [C++](./code/474.cpp) |dp| 1 |
 | 476  | [数字的补数](https://leetcode-cn.com/problems/number-complement/)  | 简单 | [C++](./code/476.cpp) |位运算| 1 |
 | 494  | [目标和](https://leetcode-cn.com/problems/target-sum/)  | 中等 | [C++](./code/494.cpp) |dp| 1 |
+| 496  | [下一个更大元素I](https://leetcode-cn.com/problems/next-greater-element-i/)  | 简单 | [C++](./code/496.cpp) |单调栈| 1 |
 | 503  | [下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/)  | 中等 | [C++](./code/503.cpp) |单调栈| 1 |
 | 504  | [七进制数](https://leetcode-cn.com/problems/base-7/)  | 中等 | [C++](./code/504.cpp) |数学| 1 |
 | 513  | [找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)  | 中等 | [C++](./code/513.cpp) |树| 1 |
@@ -235,6 +239,7 @@
 | 870  | [优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)  | 中等 | [C++](./code/870.cpp) |数组 贪心| 1 |
 | 882  | [细分图中的可到达结点](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph/)  | 困难 | [C++](./code/882.cpp) |图| 1 |
 | 889  | [根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)  | 中等 | [C++](./code/889.cpp) |树| 1 |
+| 895  | [最大频率栈](https://leetcode-cn.com/problems/maximum-frequency-stack/)  | 困难 | [C++](./code/895.cpp) |哈希表 栈| 1 |
 | 897  | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/)  | 简单 | [C++](./code/897.cpp) |树| 1 |
 | 934  | [最短的桥](https://leetcode-cn.com/problems/shortest-bridge/)  | 中等 | [C++](./code/934.cpp) |bfs| 1 |
 | 1059  | [从始点到终点的所有路径](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination/)  | 中等 | [C++](./code/1059.cpp) |图| 1 |
