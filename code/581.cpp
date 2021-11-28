@@ -41,8 +41,31 @@ public:
             maxVal=max(maxVal,nums[i]);
         }
         int i=left-1,j=right+1;
-        while(i>=0&&nums[i]>minVal)i--;
-        while(j<n&&nums[j]<maxVal)j++;
+        while(i>=0&&nums[i]>minVal)i--; //必须比这个最小值小 其前面的才能保证都小
+        while(j<n&&nums[j]<maxVal)j++; //必须比这个最大值大 其后面的才能保证都大
         return j-i-1;
+    }
+};
+
+//2021
+class Solution {
+public:
+    int findUnsortedSubarray(vector<int>& nums) {
+        int n = nums.size();
+        int minn = nums[n-1], maxn = nums[0], begin = 0, end = -1;
+        for(int i = 0; i < n; i ++){
+            if(nums[i] < maxn){
+                end = i;
+            }else{
+                maxn = nums[i];
+            }
+
+            if(nums[n-1-i] > minn){
+                begin = n-1-i;
+            }else{
+                minn = nums[n-1-i];
+            }
+        }
+        return end-begin+1;
     }
 };
