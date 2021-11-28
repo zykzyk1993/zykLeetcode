@@ -13,12 +13,12 @@ public:
         int curNum=0;
         string curString="";
         for(int i=0;i<s.size();i++){
-            if(s[i]=='['){
+            if(s[i]=='['){ // 左括号 则压入括号前的数字 和 括号前的字符(可能为空)
                 si.push(curNum);
                 ss.push(curString);
                 curNum=0;
                 curString="";
-            }else if(s[i]==']'){
+            }else if(s[i]==']'){ // 右括号 弹出本组字符串前的数字，和括号前上一级的字符，数字乘上本级字符加入上一级字符后面
                 int cnt=si.top();
                 si.pop();
                 string temp=ss.top();
@@ -27,7 +27,7 @@ public:
                     temp+=curString;
                 }
                 curString=temp;
-            }else if(s[i]>='0'&&s[i]<='9'){
+            }else if(s[i]>='0'&&s[i]<='9'){ //其他字符直接更新
                 curNum=curNum*10+(s[i]-'0');
             }else{
                 curString+=s[i];
