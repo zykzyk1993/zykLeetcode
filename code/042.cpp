@@ -75,3 +75,23 @@ int trap(vector<int>& height)
     return ans;
 }
 
+// 可读性高的解法 求出每个位置，左右可能存在的最大值
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        int n = height.size(), res = 0;
+        vector<int> leftMax(n, 0), rightMax(n, 0);
+        int l = -1, r = -1;
+        for(int i = 0; i < n; i ++){
+            leftMax[i] = l;
+            rightMax[n-1-i] = r;
+            l = max(l, height[i]);
+            r = max(r, height[n-1-i]);
+        }
+        for(int i = 0; i < n; i ++){
+            res += max(0, min(leftMax[i], rightMax[i]) - height[i]);
+        }
+        return res;
+    }
+};
+
