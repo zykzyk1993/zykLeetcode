@@ -120,12 +120,12 @@
 | 200  | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)  | 中等 | [C++](./code/200.cpp) |dfs| 1 |
 | 204  | [计数质数](https://leetcode-cn.com/problems/count-primes/)  | 中等 | [C++](./code/204.cpp) |数学| 1 |
 | 205  | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)  | 简单 | [C++](./code/205.cpp) |字符串| 1 |
-| 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  | 简单 | [C++](./code/206.cpp) |链表| 1 |
+| 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  | 简单 | [C++](./code/206.cpp) |链表| 2 |
 | 207  | [课程表](https://leetcode-cn.com/problems/course-schedule/)  | 中等 | [C++](./code/207.cpp) |图 dfs 拓扑排序| 1 |
 | 208  | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)  | 中等 | [C++](./code/208.cpp) |Trie树| 2 |
 | 210  | [课程表II](https://leetcode-cn.com/problems/course-schedule-ii/)  | 中等 | [C++](./code/210.cpp) |图 拓扑排序| 1 |
 | 213  | [打家劫舍II](https://leetcode-cn.com/problems/house-robber-ii/)  | 中等 | [C++](./code/213.cpp) |dp| 1 |
-| 215  | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)  | 中等 | [C++](./code/215.cpp) |数组 快排| 1 |
+| 215  | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)  | 中等 | [C++](./code/215.cpp) |数组 快排| 2 |
 | 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | 简单 | [C++](./code/217.cpp) |哈希表| 1 |
 | 221  | [最大正方形](https://leetcode-cn.com/problems/maximal-square/)  | 中等 | [C++](./code/221.cpp) |dp| 2 |
 | 222  | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)  | 中等 | [C++](./code/222.cpp) |树| 1 |
