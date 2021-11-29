@@ -1,7 +1,7 @@
 ### 已解问题
 | \# | 问题 | 难度 | 代码 | 标签 | 复习次数 | 白板默写 
 |----|----------|-----------|------|------|------|------|
-| 001  | [两数相加](https://leetcode-cn.com/problems/two-sum/)  | 简单 | [C++](./code/001.cpp) | 哈希表 | 2 |
+| 001  | [两数相加](https://leetcode-cn.com/problems/two-sum/)  | 简单 | [C++](./code/001.cpp) | 哈希表 | 2 | [x] |
 | 002  | [两数之和](https://leetcode-cn.com/problems/add-two-numbers/)  | 中等 | [C++](./code/002.cpp) | 链表 | 2 |
 | 003  | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  | 中等 | [C++](./code/003.cpp)| 哈希表 | 2 |
 | 004  | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)  | 困难 | [C++](./code/004.cpp) |二分 分治| 2 |
