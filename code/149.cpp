@@ -13,7 +13,7 @@ public:
         int ans = 1;
         for(int i = 0; i < n; i ++){
             unordered_map<double, int> m;
-            int start_points = 1, vertical_points = 0, other_points = 0;
+            int vertical_points = 0, normal_points = 0;
             for(int j = i + 1; j < n; j ++){
                 if(points[j][0] == points[i][0]){
                     vertical_points ++;
@@ -21,9 +21,9 @@ public:
                 }
                 double k = (points[i][1] - points[j][1]) * 1.0/ (points[i][0] - points[j][0]);
                 m[k] ++;
-                other_points = max(m[k], other_points);
+                normal_points = max(m[k], normal_points);
             }
-            ans = max(ans, max(other_points, vertical_points));
+            ans = max(ans, max(normal_points, vertical_points));
         }
         return ans;
     }
