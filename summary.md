@@ -115,6 +115,7 @@
 | 168  | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)  | 简单 | [C++](./code/168.cpp) |数学 模拟| 1 |
 | 169  | [多数元素](https://leetcode-cn.com/problems/majority-element/)  | 简单 | [C++](./code/169.cpp) |数组| 1 |
 | 172  | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)  | 中等 | [C++](./code/172.cpp) |数学| 1 |
+| 174  | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)  | 困难 | [C++](./code/174.cpp) |dp| 1 |
 | 188  | [买卖股票的最佳时机IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)  | 困难 | [C++](./code/188.cpp) |dp| 2 |
 | 190  | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)  | 简单 | [C++](./code/190.cpp) |位运算| 1 |
 | 198  | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  | 简单 | [C++](./code/198.cpp) |数组 dp| 2 |
@@ -260,3 +261,9 @@
 | 1373  | [二叉搜索子树的最大键值和](https://leetcode-cn.com/problems/maximum-sum-bst-in-binary-tree/)  | 困难 | [C++](./code/1373.cpp) |二叉树| 1 |
 | 1665  | [完成所有任务的最少初始能量](https://leetcode-cn.com/problems/minimum-initial-energy-to-finish-tasks/)  | 困难 | [C++](./code/1665.cpp) |数组 排序| 1 |
 | 1905  | [统计子岛屿](https://leetcode-cn.com/problems/count-sub-islands/)  | 中等 | [C++](./code/1905.cpp) |dfs| 1 |
+| 2090  | [半径为k的子数组平均值](https://leetcode-cn.com/problems/k-radius-subarray-averages/)  | 中等 | [C++](./code/2090.cpp) |模拟 数组| 1 |
+| 2091  | [从数组中移除最大值和最小值](https://leetcode-cn.com/problems/removing-minimum-and-maximum-from-array/)  | 中等 | [C++](./code/2091.cpp) |数组| 1 |
+| 2092  | [找出知晓秘密的所有专家](https://leetcode-cn.com/problems/find-all-people-with-secret/)  | 困难 | [C++](./code/2092.cpp) |并查集| 1 |
+
+
+
