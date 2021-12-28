@@ -41,6 +41,7 @@
 | 038  | [外观数列](https://leetcode-cn.com/problems/count-and-say/)  | 中等 | [C++](./code/038.cpp) |模拟| 1 |
 | 039  | [组合总和](https://leetcode-cn.com/problems/combination-sum/)  | 中等 | [C++](./code/039.cpp) |dfs 回溯| 2 |
 | 040  | [组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)  | 中等 | [C++](./code/040.cpp) |dfs 回溯| 1 |
+| 041  | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)  | 困难 | [C++](./code/041.cpp) |数组| 1 |
 | 042  | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  | 困难 | [C++](./code/042.cpp) |模拟 单调栈| 2 |
 | 044  | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)  | 困难 | [C++](./code/044.cpp) |dp| 1 |
 | 045  | [跳跃游戏II](https://leetcode-cn.com/problems/jump-game-ii/)  | 中等 | [C++](./code/045.cpp) |贪心| 1 |
@@ -98,6 +99,7 @@
 | 134  | [加油站](https://leetcode-cn.com/problems/gas-station/)  | 中等 | [C++](./code/134.cpp) |贪心| 1 |
 | 135  | [分发糖果](https://leetcode-cn.com/problems/candy/)  | 困难 | [C++](./code/135.cpp) |贪心| 1 |
 | 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/)  | 简单 | [C++](./code/136.cpp) |位运算| 2 |
+| 137  | [只出现一次的数字II](https://leetcode-cn.com/problems/single-number-ii/)  | 中等 | [C++](./code/137.cpp) |位运算| 2 |
 | 139  | [单词拆分](https://leetcode-cn.com/problems/word-break/)  | 中等 | [C++](./code/139.cpp) |dp| 2 |
 | 141  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  | 中等 | [C++](./code/141.cpp) |双指针 链表| 2 |
 | 142  | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  | 中等 | [C++](./code/142.cpp) |双指针 链表| 2 |
@@ -158,7 +160,7 @@
 | 303  | [区域和检索-数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)  | 简单 | [C++](./code/303.cpp) |前缀和| 1 |
 | 304  | [二维区域和检索-矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)  | 中等 | [C++](./code/304.cpp) |前缀和| 1 |
 | 309  | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  | 中等 | [C++](./code/309.cpp) |dp| 2 |
-| 310  | [最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/)  | 中等 | [C++](./code/310.cpp) |树 bfs| 1 |
+| 310  | [最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/)  | 中等 | [C++](./code/310.cpp) |树 bfs| 2 |
 | 312  | [戳气球](https://leetcode-cn.com/problems/burst-balloons/)  | 困难 | [C++](./code/312.cpp) |区间dp| 2 |
 | 313  | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/)  | 中等 | [C++](./code/313.cpp) |数学 dp| 1 |
 | 316  | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)  | 中等 | [C++](./code/316.cpp) |栈 贪心| 1 |
@@ -183,7 +185,7 @@
 | 406  | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)  | 中等 | [C++](./code/406.cpp) |贪心| 2 |
 | 409  | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)  | 简单 | [C++](./code/409.cpp) |字符串| 1 |
 | 410  | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/)  | 困难 | [C++](./code/410.cpp) |二分答案| 1 |
-| 413  | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)  | 中等 | [C++](./code/413.cpp) |数组 dp| 1 |
+| 413  | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)  | 中等 | [C++](./code/413.cpp) |数组 dp| 2 |
 | 415  | [字符串相加](https://leetcode-cn.com/problems/add-strings/)  | 中等 | [C++](./code/415.cpp) |数学 模拟| 1 |
 | 416  | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)  | 中等 | [C++](./code/416.cpp) |dfs dp| 2 |
 | 417  | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/)  | 中等 | [C++](./code/417.cpp) |dfs| 1 |
@@ -203,6 +205,8 @@
 | 503  | [下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/)  | 中等 | [C++](./code/503.cpp) |单调栈| 1 |
 | 504  | [七进制数](https://leetcode-cn.com/problems/base-7/)  | 中等 | [C++](./code/504.cpp) |数学| 1 |
 | 513  | [找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)  | 中等 | [C++](./code/513.cpp) |树| 1 |
+| 514  | [自由之路](https://leetcode-cn.com/problems/freedom-trail/)  | 困难 | [C++](./code/514.cpp) |dp| 1 |
+| 518  | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/)  | 中等 | [C++](./code/518.cpp) |dp| 1 |
 | 524  | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)  | 中等 | [C++](./code/524.cpp) |字符串 双指针| 1 |
 | 528  | [按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/)  | 中等 | [C++](./code/528.cpp) |数学 前缀和| 1 |
 | 530  | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)  | 简单 | [C++](./code/530.cpp) |树| 1 |
@@ -261,6 +265,8 @@
 | 1373  | [二叉搜索子树的最大键值和](https://leetcode-cn.com/problems/maximum-sum-bst-in-binary-tree/)  | 困难 | [C++](./code/1373.cpp) |二叉树| 1 |
 | 1665  | [完成所有任务的最少初始能量](https://leetcode-cn.com/problems/minimum-initial-energy-to-finish-tasks/)  | 困难 | [C++](./code/1665.cpp) |数组 排序| 1 |
 | 1905  | [统计子岛屿](https://leetcode-cn.com/problems/count-sub-islands/)  | 中等 | [C++](./code/1905.cpp) |dfs| 1 |
+| 2086  | [从房屋收集雨水需要的最少水桶数](https://leetcode-cn.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/)  | 中等 | [C++](./code/2086.cpp) |数组| 1 |
+| 2087  | [网格图中机器人回家的最小代价](https://leetcode-cn.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)  | 中等 | [C++](./code/2087.cpp) |贪心 数组| 1 |
 | 2090  | [半径为k的子数组平均值](https://leetcode-cn.com/problems/k-radius-subarray-averages/)  | 中等 | [C++](./code/2090.cpp) |模拟 数组| 1 |
 | 2091  | [从数组中移除最大值和最小值](https://leetcode-cn.com/problems/removing-minimum-and-maximum-from-array/)  | 中等 | [C++](./code/2091.cpp) |数组| 1 |
 | 2092  | [找出知晓秘密的所有专家](https://leetcode-cn.com/problems/find-all-people-with-secret/)  | 困难 | [C++](./code/2092.cpp) |并查集| 1 |
