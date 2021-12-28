@@ -52,3 +52,30 @@ public:
         return true;
     }
 }
+
+class Solution {
+public:
+    bool isValidBST(TreeNode* root) {
+        bool flag = false;
+        int pre = 0;
+        stack<TreeNode*> s;
+        TreeNode *p = root;
+        while(!s.empty() || p){
+            if(p){
+                s.push(p);
+                p = p->left;
+            }
+            else{
+                TreeNode *t = s.top();
+                if(flag && t->val <= pre){
+                    return false;
+                }
+                s.pop();
+                flag = true;
+                pre = t->val;
+                p = t->right;
+            }
+        }
+        return true;
+    }
+};
