@@ -214,7 +214,7 @@
 | 540  | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)  | 中等 | [C++](./code/540.cpp) |二分| 1 |
 | 542  | [01矩阵](https://leetcode-cn.com/problems/01-matrix/)  | 中等 | [C++](./code/542.cpp) |dp| 1 |
 | 543  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)  | 简单 | [C++](./code/543.cpp) |树| 2 |
-| 547  | [身份数量](https://leetcode-cn.com/problems/number-of-provinces/)  | 中等 | [C++](./code/547.cpp) |dfs| 1 |
+| 547  | [省份数量](https://leetcode-cn.com/problems/number-of-provinces/)  | 中等 | [C++](./code/547.cpp) |dfs| 1 |
 | 560  | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  | 中等 | [C++](./code/560.cpp) |数组 哈希| 2 |
 | 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/submissions/)  | 简单 | [C++](./code/566.cpp) |模拟| 1 |
 | 572  | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)  | 简单 | [C++](./code/572.cpp) |树| 2 |
