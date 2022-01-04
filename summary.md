@@ -252,9 +252,11 @@
 | 870  | [优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)  | 中等 | [C++](./code/870.cpp) |数组 贪心| 1 |
 | 875  | [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/)  | 中等 | [C++](./code/875.cpp) |二分| 1 |
 | 882  | [细分图中的可到达结点](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph/)  | 困难 | [C++](./code/882.cpp) |图| 1 |
+| 887  | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/)  | 困难 | [C++](./code/887.cpp) |分治 dp| 1 |
 | 889  | [根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)  | 中等 | [C++](./code/889.cpp) |树| 1 |
 | 895  | [最大频率栈](https://leetcode-cn.com/problems/maximum-frequency-stack/)  | 困难 | [C++](./code/895.cpp) |哈希表 栈| 1 |
 | 897  | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/)  | 简单 | [C++](./code/897.cpp) |树| 1 |
+| 913  | [下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)  | 中等 | [C++](./code/913.cpp) |dp| 1 |
 | 934  | [最短的桥](https://leetcode-cn.com/problems/shortest-bridge/)  | 中等 | [C++](./code/934.cpp) |bfs| 1 |
 | 1011  | [在D天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)  | 中等 | [C++](./code/1011.cpp) |二分| 1 |
 | 1059  | [从始点到终点的所有路径](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination/)  | 中等 | [C++](./code/1059.cpp) |图| 1 |
