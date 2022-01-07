@@ -74,6 +74,7 @@
 | 087  | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/submissions/)  | 困难 | [C++](./code/087.cpp) |字符串 dp| 1 |
 | 088  | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)  | 简单 | [C++](./code/088.cpp) |双指针| 1 |
 | 091  | [解码序列](https://leetcode-cn.com/problems/decode-ways/)  | 中等 | [C++](./code/091.cpp) |dp| 1 |
+| 092  | [反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)  | 中等 | [C++](./code/092.cpp) |链表| 1 |
 | 094  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  | 中等 | [C++](./code/094.cpp) |树| 2 |
 | 095  | [不同的二叉搜索树II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)  | 中等 | [C++](./code/095.cpp) |树 dp| 1 |
 | 096  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)  | 中等 | [C++](./code/096.cpp) |树 dp| 2 |
@@ -217,6 +218,7 @@
 | 547  | [省份数量](https://leetcode-cn.com/problems/number-of-provinces/)  | 中等 | [C++](./code/547.cpp) |dfs| 1 |
 | 560  | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  | 中等 | [C++](./code/560.cpp) |数组 哈希| 2 |
 | 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/submissions/)  | 简单 | [C++](./code/566.cpp) |模拟| 1 |
+| 567  | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)  | 中等 | [C++](./code/567.cpp) |字符串 滑动窗口| 1 |
 | 572  | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)  | 简单 | [C++](./code/572.cpp) |树| 2 |
 | 581  | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)  | 中等 | [C++](./code/581.cpp) |数组| 1 |
 | 583  | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)  | 中等 | [C++](./code/583.cpp) |字符串 dp| 1 |
@@ -248,6 +250,7 @@
 | 769  | [最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)  | 中等 | [C++](./code/769.cpp) |数组 贪心| 1 |
 | 771  | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)  | 简单 | [C++](./code/771.cpp) |哈希| 1 |
 | 785  | [判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite/)  | 中等 | [C++](./code/785.cpp) |图| 1 |
+| 787  | [K站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)  | 中等 | [C++](./code/787.cpp) |图 dp| 1 |
 | 793  | [阶乘函数后K个零](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/)  | 困难 | [C++](./code/793.cpp) |数学 二分| 1 |
 | 797  | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)  | 中等 | [C++](./code/797.cpp) |图| 1 |
 | 870  | [优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)  | 中等 | [C++](./code/870.cpp) |数组 贪心| 1 |
@@ -259,6 +262,7 @@
 | 897  | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/)  | 简单 | [C++](./code/897.cpp) |树| 1 |
 | 913  | [下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)  | 中等 | [C++](./code/913.cpp) |dp| 1 |
 | 934  | [最短的桥](https://leetcode-cn.com/problems/shortest-bridge/)  | 中等 | [C++](./code/934.cpp) |bfs| 1 |
+| 986  | [区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections/)  | 中等 | [C++](./code/986.cpp) |双指针| 1 |
 | 1011  | [在D天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)  | 中等 | [C++](./code/1011.cpp) |二分| 1 |
 | 1059  | [从始点到终点的所有路径](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination/)  | 中等 | [C++](./code/1059.cpp) |图| 1 |
 | 1110  | [删点成林](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/)  | 中等 | [C++](./code/1110.cpp) |树| 1 |
