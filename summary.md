@@ -239,6 +239,7 @@
 | 697  | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)  | 简单 | [C++](./code/697.cpp) |哈希表| 1 |
 | 699  | [掉落的方块](https://leetcode-cn.com/problems/falling-squares/)  | 困难 | [C++](./code/699.cpp) |模拟 线段树| 1 |
 | 704  | [二分查找](https://leetcode-cn.com/problems/binary-search/)  | 简单 | [C++](./code/704.cpp) |二分| 1 |
+| 712  | [两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)  | 中等 | [C++](./code/712.cpp) |字符串 dp| 1 |
 | 714  | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)  | 中等 | [C++](./code/714.cpp) |dp| 1 |
 | 716  | [最大栈](https://leetcode-cn.com/problems/max-stack/)  | 简单 | [C++](./code/716.cpp) |链表 哈希表| 1 |
 | 735  | [行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/)  | 中等 | [C++](./code/735.cpp) |栈| 1 |
@@ -265,6 +266,7 @@
 | 1277  | [统计全为1的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)  | 中等 | [C++](./code/1277.cpp) |dp| 1 |
 | 1312  | [让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)  | 困难 | [C++](./code/1312.cpp) |dp| 1 |
 | 1373  | [二叉搜索子树的最大键值和](https://leetcode-cn.com/problems/maximum-sum-bst-in-binary-tree/)  | 困难 | [C++](./code/1373.cpp) |二叉树| 1 |
+| 1541  | [平衡括号字符串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertions-to-balance-a-parentheses-string/)  | 中等 | [C++](./code/1541.cpp) |贪心| 1 |
 | 1665  | [完成所有任务的最少初始能量](https://leetcode-cn.com/problems/minimum-initial-energy-to-finish-tasks/)  | 困难 | [C++](./code/1665.cpp) |数组 排序| 1 |
 | 1905  | [统计子岛屿](https://leetcode-cn.com/problems/count-sub-islands/)  | 中等 | [C++](./code/1905.cpp) |dfs| 1 |
 | 2086  | [从房屋收集雨水需要的最少水桶数](https://leetcode-cn.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/)  | 中等 | [C++](./code/2086.cpp) |数组| 1 |
@@ -272,6 +274,4 @@
 | 2090  | [半径为k的子数组平均值](https://leetcode-cn.com/problems/k-radius-subarray-averages/)  | 中等 | [C++](./code/2090.cpp) |模拟 数组| 1 |
 | 2091  | [从数组中移除最大值和最小值](https://leetcode-cn.com/problems/removing-minimum-and-maximum-from-array/)  | 中等 | [C++](./code/2091.cpp) |数组| 1 |
 | 2092  | [找出知晓秘密的所有专家](https://leetcode-cn.com/problems/find-all-people-with-secret/)  | 困难 | [C++](./code/2092.cpp) |并查集| 1 |
-
-
 
