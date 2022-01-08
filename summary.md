@@ -43,6 +43,7 @@
 | 040  | [组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)  | 中等 | [C++](./code/040.cpp) |dfs 回溯| 1 |
 | 041  | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)  | 困难 | [C++](./code/041.cpp) |数组| 1 |
 | 042  | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)  | 困难 | [C++](./code/042.cpp) |模拟 单调栈| 2 |
+| 043  | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)  | 中等 | [C++](./code/043.cpp) |字符串 模拟| 1 |
 | 044  | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)  | 困难 | [C++](./code/044.cpp) |dp| 1 |
 | 045  | [跳跃游戏II](https://leetcode-cn.com/problems/jump-game-ii/)  | 中等 | [C++](./code/045.cpp) |贪心| 1 |
 | 046  | [全排列](https://leetcode-cn.com/problems/permutations/)  | 中等 | [C++](./code/046.cpp) |dfs 回溯| 2 |
@@ -101,6 +102,7 @@
 | 135  | [分发糖果](https://leetcode-cn.com/problems/candy/)  | 困难 | [C++](./code/135.cpp) |贪心| 1 |
 | 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/)  | 简单 | [C++](./code/136.cpp) |位运算| 2 |
 | 137  | [只出现一次的数字II](https://leetcode-cn.com/problems/single-number-ii/)  | 中等 | [C++](./code/137.cpp) |位运算| 2 |
+| 138  | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)  | 中等 | [C++](./code/138.cpp) |链表| 1 |
 | 139  | [单词拆分](https://leetcode-cn.com/problems/word-break/)  | 中等 | [C++](./code/139.cpp) |dp| 2 |
 | 141  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  | 中等 | [C++](./code/141.cpp) |双指针 链表| 2 |
 | 142  | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  | 中等 | [C++](./code/142.cpp) |双指针 链表| 2 |
@@ -255,16 +257,20 @@
 | 797  | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)  | 中等 | [C++](./code/797.cpp) |图| 1 |
 | 870  | [优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)  | 中等 | [C++](./code/870.cpp) |数组 贪心| 1 |
 | 875  | [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/)  | 中等 | [C++](./code/875.cpp) |二分| 1 |
+| 876  | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)  | 简单 | [C++](./code/876.cpp) |链表| 1 |
 | 882  | [细分图中的可到达结点](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph/)  | 困难 | [C++](./code/882.cpp) |图| 1 |
 | 887  | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/)  | 困难 | [C++](./code/887.cpp) |分治 dp| 1 |
 | 889  | [根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)  | 中等 | [C++](./code/889.cpp) |树| 1 |
 | 895  | [最大频率栈](https://leetcode-cn.com/problems/maximum-frequency-stack/)  | 困难 | [C++](./code/895.cpp) |哈希表 栈| 1 |
 | 897  | [递增顺序搜索树](https://leetcode-cn.com/problems/increasing-order-search-tree/)  | 简单 | [C++](./code/897.cpp) |树| 1 |
 | 913  | [下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)  | 中等 | [C++](./code/913.cpp) |dp| 1 |
+| 921  | [使括号有效的最少添加](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)  | 中等 | [C++](./code/921.cpp) |贪心| 1 |
 | 934  | [最短的桥](https://leetcode-cn.com/problems/shortest-bridge/)  | 中等 | [C++](./code/934.cpp) |bfs| 1 |
 | 986  | [区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections/)  | 中等 | [C++](./code/986.cpp) |双指针| 1 |
 | 1011  | [在D天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)  | 中等 | [C++](./code/1011.cpp) |二分| 1 |
 | 1059  | [从始点到终点的所有路径](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination/)  | 中等 | [C++](./code/1059.cpp) |图| 1 |
+| 1094  | [拼车](https://leetcode-cn.com/problems/car-pooling/)  | 中等 | [C++](./code/1094.cpp) |差分数组| 1 |
+| 1109  | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/)  | 中等 | [C++](./code/1109.cpp) |差分数组| 1 |
 | 1110  | [删点成林](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/)  | 中等 | [C++](./code/1110.cpp) |树| 1 |
 | 1135  | [最低成本联通所有城市](https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost/)  | 中等 | [C++](./code/1135.cpp) |图| 1 |
 | 1277  | [统计全为1的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)  | 中等 | [C++](./code/1277.cpp) |dp| 1 |
