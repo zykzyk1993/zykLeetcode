@@ -52,6 +52,7 @@
 | 049  | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)  | 中等 | [C++](./code/049.cpp) |哈希表| 2 |
 | 051  | [N皇后](https://leetcode-cn.com/problems/n-queens/)  | 困难 | [C++](./code/051.cpp) |dfs 回溯| 1 |
 | 053  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)  | 简单 | [C++](./code/053.cpp) |数组| 2 |
+| 054  | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)  | 中等 | [C++](./code/054.cpp) |模拟| 1 |
 | 055  | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | 中等 | [C++](./code/055.cpp) |数组 贪心| 2 |
 | 056  | [合并区间](https://leetcode-cn.com/problems/merge-intervals/)  | 中等 | [C++](./code/056.cpp) |数组 排序| 2 |
 | 061  | [旋转链表](https://leetcode-cn.com/problems/rotate-list/)  | 中等 | [C++](./code/061.cpp) |链表| 1 |
@@ -68,6 +69,7 @@
 | 079  | [单词搜索](https://leetcode-cn.com/problems/word-search/)  | 中等 | [C++](./code/079.cpp) |dfs 回溯| 2 |
 | 080  | [删除有序数组中的重复项II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)  | 中等 | [C++](./code/080.cpp) |数组 双指针| 1 |
 | 081  | [搜索旋转排序数组II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)  | 中等 | [C++](./code/081.cpp) |二分| 1 |
+| 082  | [删除排序链表中的重复元素II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)  | 中等 | [C++](./code/082.cpp) |链表| 1 |
 | 083  | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)  | 简单 | [C++](./code/083.cpp) |链表| 1 |
 | 084  | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)  | 困难 | [C++](./code/084.cpp) |单调栈| 1 |
 | 085  | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)  | 困难 | [C++](./code/085.cpp) |单调栈| 2 |
