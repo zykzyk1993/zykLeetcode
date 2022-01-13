@@ -106,7 +106,8 @@
 | 138  | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)  | 中等 | [C++](./code/138.cpp) |链表| 1 |
 | 139  | [单词拆分](https://leetcode-cn.com/problems/word-break/)  | 中等 | [C++](./code/139.cpp) |dp| 2 |
 | 141  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)  | 中等 | [C++](./code/141.cpp) |双指针 链表| 2 |
-| 142  | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  | 中等 | [C++](./code/142.cpp) |双指针 链表| 2 |
+| 142  | [环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)  | 中等 | [C++](./code/142.cpp) |双指针 链表| 2 |
+| 143  | [重排链表](https://leetcode-cn.com/problems/reorder-list/)  | 中等 | [C++](./code/143.cpp) |链表| 1 |
 | 144  | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)  | 简单 | [C++](./code/144.cpp) |树| 1 |
 | 145  | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)  | 简单 | [C++](./code/145.cpp) |树| 1 |
 | 146  | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)  | 中等 | [C++](./code/146.cpp) |哈希 链表| 1 |
