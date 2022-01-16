@@ -78,6 +78,7 @@
 | 088  | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)  | 简单 | [C++](./code/088.cpp) |双指针| 1 |
 | 091  | [解码序列](https://leetcode-cn.com/problems/decode-ways/)  | 中等 | [C++](./code/091.cpp) |dp| 1 |
 | 092  | [反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)  | 中等 | [C++](./code/092.cpp) |链表| 1 |
+| 093  | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)  | 中等 | [C++](./code/093.cpp) |dfs| 1 |
 | 094  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  | 中等 | [C++](./code/094.cpp) |树| 2 |
 | 095  | [不同的二叉搜索树II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)  | 中等 | [C++](./code/095.cpp) |树 dp| 1 |
 | 096  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)  | 中等 | [C++](./code/096.cpp) |树 dp| 2 |
@@ -92,6 +93,8 @@
 | 109  | [有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)  | 中等 | [C++](./code/109.cpp) |树| 1 |
 | 110  | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)  | 简单 | [C++](./code/110.cpp) |树| 1 |
 | 111  | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)  | 简单 | [C++](./code/111.cpp) |树| 1 |
+| 112  | [路径总和](https://leetcode-cn.com/problems/path-sum/)  | 简单 | [C++](./code/112.cpp) |树| 1 |
+| 113  | [路径总和II](https://leetcode-cn.com/problems/path-sum-ii/)  | 中等 | [C++](./code/113.cpp) |树| 1 |
 | 114  | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)  | 中等 | [C++](./code/114.cpp) |树| 1 |
 | 115  | [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)  | 困难 | [C++](./code/115.cpp) |字符串 dp| 1 |
 | 120  | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/)  | 中等 | [C++](./code/120.cpp) |dp| 1 |
@@ -116,6 +119,7 @@
 | 148  | [排序链表](https://leetcode-cn.com/problems/sort-list/)  | 中等 | [C++](./code/148.cpp) |链表| 2 |
 | 149  | [直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)  | 困难 | [C++](./code/149.cpp) |数学 哈希表| 1 |
 | 150  | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | 中等 | [C++](./code/150.cpp) |栈| 1 |
+| 151  | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)  | 中等 | [C++](./code/151.cpp) |字符串 模拟| 1 |
 | 152  | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)  | 中等 | [C++](./code/152.cpp) |数组 dp| 2 |
 | 154  | [寻找旋转排序数组中的最小值II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)  | 困难 | [C++](./code/154.cpp) |二分| 1 |
 | 155  | [最小栈](https://leetcode-cn.com/problems/min-stack/)  | 简单 | [C++](./code/155.cpp) |栈| 2 |
@@ -296,6 +300,7 @@
 | 1109  | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/)  | 中等 | [C++](./code/1109.cpp) |差分数组| 1 |
 | 1110  | [删点成林](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/)  | 中等 | [C++](./code/1110.cpp) |树| 1 |
 | 1135  | [最低成本联通所有城市](https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost/)  | 中等 | [C++](./code/1135.cpp) |图| 1 |
+| 1143  | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)  | 中等 | [C++](./code/1143.cpp) |dp| 1 |
 | 1254  | [统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands/)  | 中等 | [C++](./code/1254.cpp) |dfs| 1 |
 | 1277  | [统计全为1的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/)  | 中等 | [C++](./code/1277.cpp) |dp| 1 |
 | 1288  | [删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/)  | 中等 | [C++](./code/1288.cpp) |数组| 1 |
