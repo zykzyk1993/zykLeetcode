@@ -5,6 +5,21 @@
  * 分类：二叉树
  * 算法：dfs，每次减去当前root值，最后判断
  */
+
+class Solution {
+public:
+    bool hasPathSum(TreeNode *root, int sum) {
+        if (root == nullptr) {
+            return false;
+        }
+        if (root->left == nullptr && root->right == nullptr) {
+            return sum == root->val;
+        }
+        return hasPathSum(root->left, sum - root->val) ||
+               hasPathSum(root->right, sum - root->val);
+    }
+};
+
 class Solution {
 public:
     bool flag;
