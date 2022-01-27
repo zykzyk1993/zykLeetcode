@@ -121,15 +121,18 @@
 | 150  | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)  | 中等 | [C++](./code/150.cpp) |栈| 1 |
 | 151  | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)  | 中等 | [C++](./code/151.cpp) |字符串 模拟| 1 |
 | 152  | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/)  | 中等 | [C++](./code/152.cpp) |数组 dp| 2 |
+| 153  | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)  | 中等 | [C++](./code/153.cpp) |二分| 1 |
 | 154  | [寻找旋转排序数组中的最小值II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)  | 困难 | [C++](./code/154.cpp) |二分| 1 |
 | 155  | [最小栈](https://leetcode-cn.com/problems/min-stack/)  | 简单 | [C++](./code/155.cpp) |栈| 2 |
 | 160  | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)  | 简单 | [C++](./code/160.cpp) |链表| 2 |
+| 162  | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/submissions/)  | 中等 | [C++](./code/162.cpp) |二分| 1 |
 | 165  | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)  | 中等 | [C++](./code/165.cpp) |字符串 模拟| 1 |
 | 167  | [两数之和II-输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)  | 简单 | [C++](./code/167.cpp) |双指针| 1 |
 | 168  | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)  | 简单 | [C++](./code/168.cpp) |数学 模拟| 1 |
 | 169  | [多数元素](https://leetcode-cn.com/problems/majority-element/)  | 简单 | [C++](./code/169.cpp) |数组| 1 |
 | 172  | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)  | 中等 | [C++](./code/172.cpp) |数学| 1 |
 | 174  | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)  | 困难 | [C++](./code/174.cpp) |dp| 1 |
+| 179  | [最大数](https://leetcode-cn.com/problems/largest-number/)  | 中等 | [C++](./code/179.cpp) |数组 排序| 1 |
 | 188  | [买卖股票的最佳时机IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)  | 困难 | [C++](./code/188.cpp) |dp| 2 |
 | 190  | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)  | 简单 | [C++](./code/190.cpp) |位运算| 1 |
 | 191  | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)  | 简单 | [C++](./code/191.cpp) |位运算| 1 |
@@ -217,6 +220,7 @@
 | 455  | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/)  | 简单 | [C++](./code/455.cpp) |贪心| 1 |
 | 461  | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/)  | 简单 | [C++](./code/461.cpp) |位运算| 2 |
 | 462  | [最少移动次数使数组元素相等II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/)  | 中等 | [C++](./code/462.cpp) |数学| 1 |
+| 468  | [验证IP地址](https://leetcode-cn.com/problems/validate-ip-address/)  | 中等 | [C++](./code/468.cpp) |字符串| 1 |
 | 474  | [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)  | 中等 | [C++](./code/474.cpp) |dp| 1 |
 | 476  | [数字的补数](https://leetcode-cn.com/problems/number-complement/)  | 简单 | [C++](./code/476.cpp) |位运算| 1 |
 | 494  | [目标和](https://leetcode-cn.com/problems/target-sum/)  | 中等 | [C++](./code/494.cpp) |dp| 1 |
@@ -269,6 +273,7 @@
 | 712  | [两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)  | 中等 | [C++](./code/712.cpp) |字符串 dp| 1 |
 | 714  | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)  | 中等 | [C++](./code/714.cpp) |dp| 1 |
 | 716  | [最大栈](https://leetcode-cn.com/problems/max-stack/)  | 简单 | [C++](./code/716.cpp) |链表 哈希表| 1 |
+| 718  | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)  | 中等 | [C++](./code/718.cpp) |数组 dp| 1 |
 | 735  | [行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/)  | 中等 | [C++](./code/735.cpp) |栈| 1 |
 | 739  | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/)  | 中等 | [C++](./code/739.cpp) |单调栈| 1 |
 | 752  | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)  | 中等 | [C++](./code/752.cpp) |bfs| 1 |
@@ -292,6 +297,7 @@
 | 913  | [下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)  | 中等 | [C++](./code/913.cpp) |dp| 1 |
 | 921  | [使括号有效的最少添加](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)  | 中等 | [C++](./code/921.cpp) |贪心| 1 |
 | 934  | [最短的桥](https://leetcode-cn.com/problems/shortest-bridge/)  | 中等 | [C++](./code/934.cpp) |bfs| 1 |
+| 958  | [二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/)  | 中等 | [C++](./code/958.cpp) |树| 1 |
 | 986  | [区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections/)  | 中等 | [C++](./code/986.cpp) |双指针| 1 |
 | 1011  | [在D天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)  | 中等 | [C++](./code/1011.cpp) |二分| 1 |
 | 1020  | [飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)  | 中等 | [C++](./code/1020.cpp) |dfs| 1 |
