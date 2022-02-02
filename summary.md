@@ -143,12 +143,14 @@
 | 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)  | 简单 | [C++](./code/206.cpp) |链表| 2 |
 | 207  | [课程表](https://leetcode-cn.com/problems/course-schedule/)  | 中等 | [C++](./code/207.cpp) |图 dfs 拓扑排序| 1 |
 | 208  | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)  | 中等 | [C++](./code/208.cpp) |Trie树| 2 |
+| 209  | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)  | 中等 | [C++](./code/209.cpp) |滑动窗口| 1 |
 | 210  | [课程表II](https://leetcode-cn.com/problems/course-schedule-ii/)  | 中等 | [C++](./code/210.cpp) |图 拓扑排序| 1 |
 | 213  | [打家劫舍II](https://leetcode-cn.com/problems/house-robber-ii/)  | 中等 | [C++](./code/213.cpp) |dp| 1 |
 | 215  | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)  | 中等 | [C++](./code/215.cpp) |数组 快排| 2 |
 | 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)  | 简单 | [C++](./code/217.cpp) |哈希表| 1 |
 | 221  | [最大正方形](https://leetcode-cn.com/problems/maximal-square/)  | 中等 | [C++](./code/221.cpp) |dp| 2 |
 | 222  | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)  | 中等 | [C++](./code/222.cpp) |树| 1 |
+| 224  | [基本计算器](https://leetcode-cn.com/problems/basic-calculator/)  | 困难 | [C++](./code/224.cpp) |栈| 1 |
 | 225  | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)  | 简单 | [C++](./code/225.cpp) |队列 栈| 1 |
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)  | 简单 | [C++](./code/226.cpp) |树| 2 |
 | 230  | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)  | 中等 | [C++](./code/230.cpp) |二叉树| 1 |
@@ -225,6 +227,7 @@
 | 476  | [数字的补数](https://leetcode-cn.com/problems/number-complement/)  | 简单 | [C++](./code/476.cpp) |位运算| 1 |
 | 494  | [目标和](https://leetcode-cn.com/problems/target-sum/)  | 中等 | [C++](./code/494.cpp) |dp| 1 |
 | 496  | [下一个更大元素I](https://leetcode-cn.com/problems/next-greater-element-i/)  | 简单 | [C++](./code/496.cpp) |单调栈| 1 |
+| 498  | [对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/)  | 中等 | [C++](./code/498.cpp) |模拟| 1 |
 | 503  | [下一个更大元素II](https://leetcode-cn.com/problems/next-greater-element-ii/)  | 中等 | [C++](./code/503.cpp) |单调栈| 1 |
 | 504  | [七进制数](https://leetcode-cn.com/problems/base-7/)  | 中等 | [C++](./code/504.cpp) |数学| 1 |
 | 509  | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)  | 中等 | [C++](./code/509.cpp) |dp| 1 |
@@ -264,7 +267,7 @@
 | 695  | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)  | 中等 | [C++](./code/695.cpp) |dfs| 1 |
 | 696  | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/)  | 简单 | [C++](./code/696.cpp) |数组| 1 |
 | 697  | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)  | 简单 | [C++](./code/697.cpp) |哈希表| 1 |
-| 698  | [划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)  | 中等 | [C++](./code/698.cpp) |dfs| 1 |
+| 698  | [划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)  | 中等 | [C++](./code/698.cpp) |dfs| 2 |
 | 699  | [掉落的方块](https://leetcode-cn.com/problems/falling-squares/)  | 困难 | [C++](./code/699.cpp) |模拟 线段树| 1 |
 | 700  | [二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)  | 简单 | [C++](./code/700.cpp) |二叉树| 1 |
 | 701  | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)  | 简单 | [C++](./code/701.cpp) |二叉树| 1 |
