@@ -49,3 +49,25 @@ public:
         return ans;
     }
 };
+
+class Solution {
+public:
+    vector<int> inorderTraversal(TreeNode* root) {
+        stack<TreeNode*> s;
+        vector<int> ans;
+        TreeNode *p = root;
+        while(!s.empty() || p){
+            if(p) {
+                s.push(p);
+                p = p->left;
+            }
+            else {
+                p = s.top();
+                ans.push_back(p->val);
+                s.pop();
+                p = p->right;
+            }
+        }
+        return ans;
+    }
+};
