@@ -104,6 +104,7 @@
 | 123  | [买卖股票的最佳时机III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)  | 困难 | [C++](cpp_0_999/122.cpp) |dp| 1 |
 | 124  | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)  | 困难 | [C++](cpp_0_999/124.cpp) |树| 2 |
 | 128  | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)  | 困难 | [C++](cpp_0_999/128.cpp) |数组 集合| 2 |
+| 129  | [求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)  | 中等 | [C++](cpp_0_999/129.cpp) |树 dfs| 1 |
 | 130  | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)  | 中等 | [C++](cpp_0_999/130.cpp) |搜索| 1 |
 | 134  | [加油站](https://leetcode-cn.com/problems/gas-station/)  | 中等 | [C++](cpp_0_999/134.cpp) |贪心| 1 |
 | 135  | [分发糖果](https://leetcode-cn.com/problems/candy/)  | 困难 | [C++](cpp_0_999/135.cpp) |贪心| 1 |
