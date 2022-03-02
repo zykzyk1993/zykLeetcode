@@ -231,6 +231,7 @@
 | 461  | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/)  | 简单 | [C++](cpp_0_999/461.cpp) |位运算| 2 |
 | 462  | [最少移动次数使数组元素相等II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/)  | 中等 | [C++](cpp_0_999/462.cpp) |数学| 1 |
 | 468  | [验证IP地址](https://leetcode-cn.com/problems/validate-ip-address/)  | 中等 | [C++](cpp_0_999/468.cpp) |字符串| 1 |
+| 470  | [用Rand7()实现Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7)  | 中等 | [C++](cpp_0_999/470.cpp) |数学| 1 |
 | 474  | [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)  | 中等 | [C++](cpp_0_999/474.cpp) |dp| 1 |
 | 476  | [数字的补数](https://leetcode-cn.com/problems/number-complement/)  | 简单 | [C++](cpp_0_999/476.cpp) |位运算| 1 |
 | 494  | [目标和](https://leetcode-cn.com/problems/target-sum/)  | 中等 | [C++](cpp_0_999/494.cpp) |dp| 1 |
