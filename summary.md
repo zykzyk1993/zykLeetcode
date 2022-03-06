@@ -156,6 +156,7 @@
 | 224  | [基本计算器](https://leetcode-cn.com/problems/basic-calculator/)  | 困难 | [C++](cpp_0_999/224.cpp) |栈| 1 |
 | 225  | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)  | 简单 | [C++](cpp_0_999/225.cpp) |队列 栈| 1 |
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)  | 简单 | [C++](cpp_0_999/226.cpp) |树| 2 |
+| 224  | [基本计算器II](https://leetcode-cn.com/problems/basic-calculator-ii/)  | 困难 | [C++](cpp_0_999/227.cpp) |栈| 1 |
 | 230  | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)  | 中等 | [C++](cpp_0_999/230.cpp) |二叉树| 1 |
 | 231  | [2的幂](https://leetcode-cn.com/problems/power-of-two/)  | 简单 | [C++](cpp_0_999/231.cpp) |数学| 1 |
 | 232  | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)  | 简单 | [C++](cpp_0_999/232.cpp) |栈 队列| 1 |
