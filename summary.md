@@ -136,6 +136,7 @@
 | 174  | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/)  | 困难 | [C++](cpp_0_999/174.cpp) |dp| 1 |
 | 179  | [最大数](https://leetcode-cn.com/problems/largest-number/)  | 中等 | [C++](cpp_0_999/179.cpp) |数组 排序| 1 |
 | 188  | [买卖股票的最佳时机IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)  | 困难 | [C++](cpp_0_999/188.cpp) |dp| 2 |
+| 189  | [轮转数组](https://leetcode-cn.com/problems/rotate-array)  | 简单 | [C++](cpp_0_999/189.cpp) |数组| 1 |
 | 190  | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)  | 简单 | [C++](cpp_0_999/190.cpp) |位运算| 1 |
 | 191  | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)  | 简单 | [C++](cpp_0_999/191.cpp) |位运算| 1 |
 | 198  | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)  | 简单 | [C++](cpp_0_999/198.cpp) |数组 dp| 2 |
