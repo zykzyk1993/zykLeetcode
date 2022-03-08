@@ -206,6 +206,7 @@
 | 380  | [O(1)时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)  | 中等 | [C++](cpp_0_999/380.cpp) |哈希表 动态数组| 1 |
 | 382  | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/)  | 中等 | [C++](cpp_0_999/382.cpp) |数学| 1 |
 | 384  | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/)  | 中等 | [C++](cpp_0_999/384.cpp) |数学| 1 |
+| 389  | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix)  | 困难 | [C++](cpp_0_999/389.cpp) |图 bfs| 1 |
 | 392  | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/)  | 简单 | [C++](cpp_0_999/392.cpp) |模拟| 1 |
 | 394  | [字符串解码](https://leetcode-cn.com/problems/decode-string/)  | 中等 | [C++](cpp_0_999/394.cpp) |栈| 2 |
 | 398  | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)  | 中等 | [C++](cpp_0_999/398.cpp) |哈希表| 1 |
