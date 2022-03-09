@@ -80,9 +80,9 @@
 | 092  | [反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)  | 中等 | [C++](cpp_0_999/092.cpp) |链表| 1 |
 | 093  | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/)  | 中等 | [C++](cpp_0_999/093.cpp) |dfs| 1 |
 | 094  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)  | 中等 | [C++](cpp_0_999/094.cpp) |树| 2 |
-| 095  | [不同的二叉搜索树II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)  | 中等 | [C++](cpp_0_999/095.cpp) |树 dp| 1 |
+| 095  | [不同的二叉搜索树II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)  | 中等 | [C++](cpp_0_999/095.cpp) |树| 1 |
 | 096  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)  | 中等 | [C++](cpp_0_999/096.cpp) |树 dp| 2 |
-| 096  | [交错字符串](https://leetcode-cn.com/problems/interleaving-string/)  | 中等 | [C++](cpp_0_999/097.cpp) |字符串 dp| 1 |
+| 097  | [交错字符串](https://leetcode-cn.com/problems/interleaving-string/)  | 中等 | [C++](cpp_0_999/097.cpp) |字符串 dp| 1 |
 | 098  | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)  | 中等 | [C++](cpp_0_999/098.cpp) |树| 2 |
 | 099  | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/)  | 中等 | [C++](cpp_0_999/099.cpp) |树| 1 |
 | 100  | [相同的树](https://leetcode-cn.com/problems/same-tree/)  | 简单 | [C++](cpp_0_999/100.cpp) |树| 1 |
