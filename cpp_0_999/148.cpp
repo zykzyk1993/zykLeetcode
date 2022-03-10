@@ -104,3 +104,36 @@ public:
         return dummyHead.next;
     }
 };
+
+//快排版本
+class Solution {
+public:
+    ListNode * quickSort(ListNode* head, ListNode *tail) {
+        if(head == nullptr || head == tail) {
+            return head;
+        }
+        ListNode *p = head->next;
+        ListNode *p1 = head;
+        ListNode *p2 = head->next;
+        while(p != tail) {
+            if(p->val < head->val) {
+                if(p != p2) {
+                    swap(p->val, p2->val);
+                }
+                if(p1->next)
+                    p1 = p1->next;
+                if(p2->next)
+                    p2 = p2->next;
+            }
+            p = p->next;
+        }
+        if(p1 != head)
+            swap(p1->val, head->val);
+        quickSort(head, p1);
+        quickSort(p1->next, tail);
+        return head;
+    }
+    ListNode* sortList(ListNode* head) {
+        return quickSort(head, nullptr);
+    }
+};
