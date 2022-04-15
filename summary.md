@@ -222,6 +222,7 @@
 | 432  | [全O(1)的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/)  | 困难 | [C++](cpp_0_999/432.cpp) |链表 哈希表| 1 |
 | 437  | [路径总和III](https://leetcode-cn.com/problems/path-sum-iii/)  | 简单 | [C++](cpp_0_999/437.cpp) |树| 2 |
 | 438  | [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)  | 中等 | [C++](cpp_0_999/438.cpp) |滑动窗口| 2 |
+| 440  | [字典序的第K小数字](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order)  | 困难 | [C++](cpp_0_999/440.cpp) |字典树| 1 |
 | 442  | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)  | 中等 | [C++](cpp_0_999/442.cpp) |数组| 1 |
 | 443  | [压缩字符串](https://leetcode-cn.com/problems/string-compression/)  | 中等 | [C++](cpp_0_999/443.cpp) |字符串| 1 |
 | 445  | [两数相加II](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | 中等 | [C++](cpp_0_999/445.cpp) |链表| 1 |
