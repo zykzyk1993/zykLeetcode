@@ -196,6 +196,7 @@
 | 322  | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)  | 中等 | [C++](cpp_0_999/322.cpp) |dp 背包| 2 |
 | 326  | [3的幂](https://leetcode-cn.com/problems/power-of-three/)  | 简单 | [C++](cpp_0_999/326.cpp) |数学| 1 |
 | 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)  | 中等 | [C++](cpp_0_999/328.cpp) |链表| 1 |
+| 329  | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)  | 中等 | [C++](cpp_0_999/329.cpp) |dfs| 1 |
 | 337  | [打家劫舍III](https://leetcode-cn.com/problems/house-robber-iii/)  | 中等 | [C++](cpp_0_999/337.cpp) |树 dp| 2 |
 | 338  | [比特位计数](https://leetcode-cn.com/problems/counting-bits/)  | 中等 | [C++](cpp_0_999/338.cpp) |dp 位运算| 2 |
 | 341  | [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)  | 中等 | [C++](cpp_0_999/341.cpp) |树 dfs| 1 |
@@ -203,6 +204,7 @@
 | 347  | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)  | 中等 | [C++](cpp_0_999/347.cpp) |堆 哈希| 1 |
 | 349  | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)  | 中等 | [C++](cpp_0_999/349.cpp) |双指针 哈希| 1 |
 | 354  | [俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)  | 困难 | [C++](cpp_0_999/354.cpp) |贪心| 1 |
+| 367  | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)  | 简单 | [C++](cpp_0_999/367.cpp) |二分| 1 |
 | 376  | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)  | 中等 | [C++](cpp_0_999/376.cpp) |dp| 1 |
 | 380  | [O(1)时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)  | 中等 | [C++](cpp_0_999/380.cpp) |哈希表 动态数组| 1 |
 | 382  | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/)  | 中等 | [C++](cpp_0_999/382.cpp) |数学| 1 |
