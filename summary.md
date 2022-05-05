@@ -212,6 +212,7 @@
 | 394  | [字符串解码](https://leetcode-cn.com/problems/decode-string/)  | 中等 | [C++](cpp_0_999/394.cpp) |栈| 2 |
 | 398  | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)  | 中等 | [C++](cpp_0_999/398.cpp) |哈希表| 1 |
 | 399  | [除法求值](https://leetcode-cn.com/problems/evaluate-division/)  | 中等 | [C++](cpp_0_999/399.cpp) |图 并查集| 2 |
+| 400  | [第N位数字](https://leetcode-cn.com/problems/nth-digit/)  | 中等 | [C++](cpp_0_999/400.cpp) |数学 二分| 1 |
 | 404  | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)  | 简单 | [C++](cpp_0_999/404.cpp) |树| 1 |
 | 406  | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)  | 中等 | [C++](cpp_0_999/406.cpp) |贪心| 2 |
 | 409  | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)  | 简单 | [C++](cpp_0_999/409.cpp) |字符串| 1 |
@@ -250,6 +251,7 @@
 | 514  | [自由之路](https://leetcode-cn.com/problems/freedom-trail/)  | 困难 | [C++](cpp_0_999/514.cpp) |dp| 1 |
 | 518  | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/)  | 中等 | [C++](cpp_0_999/518.cpp) |dp| 1 |
 | 524  | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)  | 中等 | [C++](cpp_0_999/524.cpp) |字符串 双指针| 1 |
+| 525  | [连续数组](https://leetcode-cn.com/problems/contiguous-array/)  | 中等 | [C++](cpp_0_999/525.cpp) |哈希 前缀和| 1 |
 | 528  | [按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/)  | 中等 | [C++](cpp_0_999/528.cpp) |数学 前缀和| 1 |
 | 530  | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)  | 简单 | [C++](cpp_0_999/530.cpp) |树| 1 |
 | 538  | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)  | 简单 | [C++](cpp_0_999/538.cpp) |树| 2 |
@@ -257,6 +259,7 @@
 | 542  | [01矩阵](https://leetcode-cn.com/problems/01-matrix/)  | 中等 | [C++](cpp_0_999/542.cpp) |dp| 1 |
 | 543  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)  | 简单 | [C++](cpp_0_999/543.cpp) |树| 2 |
 | 547  | [省份数量](https://leetcode-cn.com/problems/number-of-provinces/)  | 中等 | [C++](cpp_0_999/547.cpp) |dfs| 1 |
+| 557  | [反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)  | 中等 | [C++](cpp_0_999/557.cpp) |字符串| 1 |
 | 560  | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  | 中等 | [C++](cpp_0_999/560.cpp) |数组 哈希| 2 |
 | 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/submissions/)  | 简单 | [C++](cpp_0_999/566.cpp) |模拟| 1 |
 | 567  | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)  | 中等 | [C++](cpp_0_999/567.cpp) |字符串 滑动窗口| 1 |
@@ -277,6 +280,7 @@
 | 662  | [二叉树的最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/)  | 中等 | [C++](cpp_0_999/662.cpp) |二叉树| 1 |
 | 665  | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)  | 中等 | [C++](cpp_0_999/665.cpp) |贪心| 1 |
 | 669  | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)  | 中等 | [C++](cpp_0_999/669.cpp) |树| 1 |
+| 670  | [最大交换](https://leetcode-cn.com/problems/maximum-swap/)  | 中等 | [C++](cpp_0_999/670.cpp) |贪心 数学| 1 |
 | 678  | [有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/)  | 中等 | [C++](cpp_0_999/678.cpp) |字符串 贪心| 1 |
 | 680  | [验证回文字符串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)  | 简单 | [C++](cpp_0_999/680.cpp) |字符串 模拟| 1 |
 | 684  | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/)  | 中等 | [C++](cpp_0_999/684.cpp) |并查集| 1 |
