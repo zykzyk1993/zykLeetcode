@@ -284,6 +284,7 @@
 | 665  | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)  | 中等 | [C++](cpp_0_999/665.cpp) |贪心| 1 |
 | 669  | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)  | 中等 | [C++](cpp_0_999/669.cpp) |树| 1 |
 | 670  | [最大交换](https://leetcode-cn.com/problems/maximum-swap/)  | 中等 | [C++](cpp_0_999/670.cpp) |贪心 数学| 1 |
+| 673  | [最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)  | 中等 | [C++](cpp_0_999/673.cpp) |dp| 1 |
 | 678  | [有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/)  | 中等 | [C++](cpp_0_999/678.cpp) |字符串 贪心| 1 |
 | 680  | [验证回文字符串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)  | 简单 | [C++](cpp_0_999/680.cpp) |字符串 模拟| 1 |
 | 684  | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/)  | 中等 | [C++](cpp_0_999/684.cpp) |并查集| 1 |
@@ -312,6 +313,7 @@
 | 787  | [K站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)  | 中等 | [C++](cpp_0_999/787.cpp) |图 dp| 1 |
 | 793  | [阶乘函数后K个零](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/)  | 困难 | [C++](cpp_0_999/793.cpp) |数学 二分| 1 |
 | 797  | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)  | 中等 | [C++](cpp_0_999/797.cpp) |图| 1 |
+| 806  | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/)  | 简单 | [C++](cpp_0_999/806.cpp) |模拟| 1 |
 | 870  | [优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)  | 中等 | [C++](cpp_0_999/870.cpp) |数组 贪心| 1 |
 | 875  | [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/)  | 中等 | [C++](cpp_0_999/875.cpp) |二分| 1 |
 | 876  | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)  | 简单 | [C++](cpp_0_999/876.cpp) |链表| 1 |
