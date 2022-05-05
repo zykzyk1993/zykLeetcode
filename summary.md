@@ -267,6 +267,7 @@
 | 581  | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)  | 中等 | [C++](cpp_0_999/581.cpp) |数组| 1 |
 | 583  | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)  | 中等 | [C++](cpp_0_999/583.cpp) |字符串 dp| 1 |
 | 594  | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)  | 简单 | [C++](cpp_0_999/594.cpp) |哈希表| 1 |
+| 611  | [有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)  | 中等 | [C++](cpp_0_999/611.cpp) |双指针| 1 |
 | 617  | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)  | 简单 | [C++](cpp_0_999/617.cpp) |树| 2 |
 | 621  | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/)  | 中等 | [C++](cpp_0_999/621.cpp) |贪心| 2 |
 | 633  | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)  | 中等 | [C++](cpp_0_999/633.cpp) |双指针| 1 |
