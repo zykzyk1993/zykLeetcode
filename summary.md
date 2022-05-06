@@ -261,6 +261,7 @@
 | 542  | [01矩阵](https://leetcode-cn.com/problems/01-matrix/)  | 中等 | [C++](cpp_0_999/542.cpp) |dp| 1 |
 | 543  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)  | 简单 | [C++](cpp_0_999/543.cpp) |树| 2 |
 | 547  | [省份数量](https://leetcode-cn.com/problems/number-of-provinces/)  | 中等 | [C++](cpp_0_999/547.cpp) |dfs| 1 |
+| 556  | [下一个更大的元素III](https://leetcode-cn.com/problems/next-greater-element-iii/)  | 中等 | [C++](cpp_0_999/556.cpp) |数学| 1 |
 | 557  | [反转字符串中的单词III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)  | 中等 | [C++](cpp_0_999/557.cpp) |字符串| 1 |
 | 560  | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  | 中等 | [C++](cpp_0_999/560.cpp) |数组 哈希| 2 |
 | 566  | [重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/submissions/)  | 简单 | [C++](cpp_0_999/566.cpp) |模拟| 1 |
