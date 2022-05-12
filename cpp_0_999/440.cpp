@@ -10,7 +10,7 @@ public:
     int count(long long now,long long n)
     {
         long long cur=now;
-        long long next_one=now+1;
+        long long next_one=now+1; // 下一个 左闭右开
         int res=0;
         while(cur<=n)
         {
