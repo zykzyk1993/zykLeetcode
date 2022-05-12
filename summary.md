@@ -61,6 +61,7 @@
 | 064  | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)  | 中等 | [C++](cpp_0_999/064.cpp) |dp| 2 |
 | 069  | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)  | 简单 | [C++](cpp_0_999/069.cpp) |二分| 1 |
 | 070  | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | 简单 | [C++](cpp_0_999/070.cpp) |dp| 2 |
+| 071  | [简化路径](https://leetcode.cn/problems/simplify-path/)  | 中等 | [C++](cpp_0_999/071.cpp) |字符串| 1 |
 | 072  | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  | 困难 | [C++](cpp_0_999/072.cpp) |dp| 2 |
 | 075  | [颜色分类](https://leetcode-cn.com/problems/sort-colors/)  | 中等 | [C++](cpp_0_999/075.cpp) |数组 排序 双指针| 2 |
 | 076  | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)  | 困难 | [C++](cpp_0_999/076.cpp) |字符串 滑动窗口| 2 |
@@ -88,7 +89,7 @@
 | 100  | [相同的树](https://leetcode-cn.com/problems/same-tree/)  | 简单 | [C++](cpp_0_999/100.cpp) |树| 1 |
 | 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)  | 简单 | [C++](cpp_0_999/101.cpp) |树| 2 |
 | 102  | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)  | 中等 | [C++](cpp_0_999/102.cpp) |树| 2 |
-| 103  | [二叉树的锯齿状遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  | 中等 | [C++](cpp_0_999/103.cpp) |树| 1 |
+| 103  | [二叉树的锯齿状遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)  | 中等 | [C++](cpp_0_999/103.cpp) |树| 2 |
 | 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)  | 简单 | [C++](cpp_0_999/104.cpp) |树| 2 |
 | 105  | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  | 中等 | [C++](cpp_0_999/105.cpp) |树| 2 |
 | 106  | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  | 中等 | [C++](cpp_0_999/106.cpp) |树| 1 |
@@ -130,6 +131,7 @@
 | 160  | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)  | 简单 | [C++](cpp_0_999/160.cpp) |链表| 2 |
 | 162  | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/submissions/)  | 中等 | [C++](cpp_0_999/162.cpp) |二分| 1 |
 | 165  | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)  | 中等 | [C++](cpp_0_999/165.cpp) |字符串 模拟| 1 |
+| 166  | [分数到小数](https://leetcode.cn/problems/fraction-to-recurring-decimal/)  | 中等 | [C++](cpp_0_999/166.cpp) |字符串 数学| 1 |
 | 167  | [两数之和II-输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)  | 简单 | [C++](cpp_0_999/167.cpp) |双指针| 1 |
 | 168  | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)  | 简单 | [C++](cpp_0_999/168.cpp) |数学 模拟| 1 |
 | 169  | [多数元素](https://leetcode-cn.com/problems/majority-element/)  | 简单 | [C++](cpp_0_999/169.cpp) |数组| 1 |
@@ -215,6 +217,7 @@
 | 398  | [随机数索引](https://leetcode-cn.com/problems/random-pick-index/)  | 中等 | [C++](cpp_0_999/398.cpp) |哈希表| 1 |
 | 399  | [除法求值](https://leetcode-cn.com/problems/evaluate-division/)  | 中等 | [C++](cpp_0_999/399.cpp) |图 并查集| 2 |
 | 400  | [第N位数字](https://leetcode-cn.com/problems/nth-digit/)  | 中等 | [C++](cpp_0_999/400.cpp) |数学 二分| 1 |
+| 402  | [移掉K位数字](https://leetcode.cn/problems/remove-k-digits/)  | 简单 | [C++](cpp_0_999/402.cpp) |栈 贪心| 1 |
 | 404  | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)  | 简单 | [C++](cpp_0_999/404.cpp) |树| 1 |
 | 406  | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)  | 中等 | [C++](cpp_0_999/406.cpp) |贪心| 2 |
 | 409  | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)  | 简单 | [C++](cpp_0_999/409.cpp) |字符串| 1 |
@@ -251,6 +254,7 @@
 | 509  | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)  | 中等 | [C++](cpp_0_999/509.cpp) |dp| 1 |
 | 513  | [找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)  | 中等 | [C++](cpp_0_999/513.cpp) |树| 1 |
 | 514  | [自由之路](https://leetcode-cn.com/problems/freedom-trail/)  | 困难 | [C++](cpp_0_999/514.cpp) |dp| 1 |
+| 516  | [最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/)  | 中等 | [C++](cpp_0_999/516.cpp) |dp| 1 |
 | 518  | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/)  | 中等 | [C++](cpp_0_999/518.cpp) |dp| 1 |
 | 524  | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/)  | 中等 | [C++](cpp_0_999/524.cpp) |字符串 双指针| 1 |
 | 525  | [连续数组](https://leetcode-cn.com/problems/contiguous-array/)  | 中等 | [C++](cpp_0_999/525.cpp) |哈希 前缀和| 1 |
@@ -287,6 +291,7 @@
 | 670  | [最大交换](https://leetcode-cn.com/problems/maximum-swap/)  | 中等 | [C++](cpp_0_999/670.cpp) |贪心 数学| 1 |
 | 673  | [最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)  | 中等 | [C++](cpp_0_999/673.cpp) |dp| 1 |
 | 678  | [有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/)  | 中等 | [C++](cpp_0_999/678.cpp) |字符串 贪心| 1 |
+| 679  | [24点游戏](https://leetcode.cn/problems/24-game/)  | 困难 | [C++](cpp_0_999/679.cpp) |dfs| 1 |
 | 680  | [验证回文字符串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)  | 简单 | [C++](cpp_0_999/680.cpp) |字符串 模拟| 1 |
 | 684  | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/)  | 中等 | [C++](cpp_0_999/684.cpp) |并查集| 1 |
 | 693  | [交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)  | 简单 | [C++](cpp_0_999/693.cpp) |位运算| 1 |
@@ -314,7 +319,8 @@
 | 787  | [K站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)  | 中等 | [C++](cpp_0_999/787.cpp) |图 dp| 1 |
 | 793  | [阶乘函数后K个零](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/)  | 困难 | [C++](cpp_0_999/793.cpp) |数学 二分| 1 |
 | 797  | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)  | 中等 | [C++](cpp_0_999/797.cpp) |图| 1 |
-| 806  | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/)  | 简单 | [C++](cpp_0_999/806.cpp) |模拟| 1 |
+| 806  | [写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/)  | 简单 | [C++](cpp_0_999/806.cpp) |模拟| 1 |、
+| 862  | [和至少为K的最短子数组](https://leetcode.cn/problems/shortest-subarray-with-sum-at-least-k/)  | 困难 | [C++](cpp_0_999/862.cpp) |前缀和| 1 |
 | 870  | [优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle/)  | 中等 | [C++](cpp_0_999/870.cpp) |数组 贪心| 1 |
 | 875  | [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/)  | 中等 | [C++](cpp_0_999/875.cpp) |二分| 1 |
 | 876  | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)  | 简单 | [C++](cpp_0_999/876.cpp) |链表| 1 |
